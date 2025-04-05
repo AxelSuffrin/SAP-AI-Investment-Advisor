@@ -1,0 +1,5054 @@
+[
+  {
+    "client_id": "CLIENT0001",
+    "total_value": 600714.34,
+    "holdings": [
+      {
+        "asset_class": "Real Estate",
+        "value": 39223.16,
+        "purchase_date": "2022-03-11",
+        "current_allocation": 6.53,
+        "performance_ytd": -0.1413
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 12705.47,
+        "purchase_date": "2020-12-05",
+        "current_allocation": 2.12,
+        "performance_ytd": 0.1161
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 199509.98,
+        "purchase_date": "2020-11-13",
+        "current_allocation": 33.21,
+        "performance_ytd": -0.0149
+      },
+      {
+        "asset_class": "Cash",
+        "value": 73595.25,
+        "purchase_date": "2020-10-11",
+        "current_allocation": 12.25,
+        "performance_ytd": -0.0176
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 4370.08,
+        "purchase_date": "2022-02-13",
+        "current_allocation": 0.73,
+        "performance_ytd": 0.1116
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 184958.37,
+        "purchase_date": "2023-12-24",
+        "current_allocation": 30.79,
+        "performance_ytd": -0.1075
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 86352.03,
+        "purchase_date": "2022-10-18",
+        "current_allocation": 14.37,
+        "performance_ytd": 0.1704
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0002",
+    "total_value": 724073.19,
+    "holdings": [
+      {
+        "asset_class": "Emerging Markets",
+        "value": 98000.64,
+        "purchase_date": "2020-09-24",
+        "current_allocation": 13.53,
+        "performance_ytd": 0.0901
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 143241.22,
+        "purchase_date": "2021-05-18",
+        "current_allocation": 19.78,
+        "performance_ytd": 0.2117
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 131745.59,
+        "purchase_date": "2024-12-07",
+        "current_allocation": 18.2,
+        "performance_ytd": -0.0286
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 101283.3,
+        "purchase_date": "2020-11-23",
+        "current_allocation": 13.99,
+        "performance_ytd": 0.1035
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 113013.63,
+        "purchase_date": "2023-06-25",
+        "current_allocation": 15.61,
+        "performance_ytd": -0.1235
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 136788.81,
+        "purchase_date": "2022-09-19",
+        "current_allocation": 18.89,
+        "performance_ytd": 0.1285
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0003",
+    "total_value": 1436362.65,
+    "holdings": [
+      {
+        "asset_class": "Commodities",
+        "value": 269960.66,
+        "purchase_date": "2022-02-25",
+        "current_allocation": 18.79,
+        "performance_ytd": -0.0074
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 115048.08,
+        "purchase_date": "2021-03-17",
+        "current_allocation": 8.01,
+        "performance_ytd": 0.1201
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 262206.7,
+        "purchase_date": "2022-11-03",
+        "current_allocation": 18.25,
+        "performance_ytd": 0.1456
+      },
+      {
+        "asset_class": "Cash",
+        "value": 271972.12,
+        "purchase_date": "2022-03-18",
+        "current_allocation": 18.93,
+        "performance_ytd": 0.245
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 72200.49,
+        "purchase_date": "2024-03-29",
+        "current_allocation": 5.03,
+        "performance_ytd": 0.0508
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 145444.88,
+        "purchase_date": "2023-04-16",
+        "current_allocation": 10.13,
+        "performance_ytd": 0.0624
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 193679.42,
+        "purchase_date": "2023-09-05",
+        "current_allocation": 13.48,
+        "performance_ytd": -0.0145
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 105850.3,
+        "purchase_date": "2024-03-31",
+        "current_allocation": 7.37,
+        "performance_ytd": 0.0915
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0004",
+    "total_value": 1954771.72,
+    "holdings": [
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 540720.6,
+        "purchase_date": "2022-10-02",
+        "current_allocation": 27.66,
+        "performance_ytd": 0.078
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 694486.38,
+        "purchase_date": "2022-02-17",
+        "current_allocation": 35.53,
+        "performance_ytd": 0.0573
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 719564.74,
+        "purchase_date": "2025-02-14",
+        "current_allocation": 36.81,
+        "performance_ytd": 0.1581
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0005",
+    "total_value": 200089.65,
+    "holdings": [
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 19450.23,
+        "purchase_date": "2024-06-27",
+        "current_allocation": 9.72,
+        "performance_ytd": 0.0964
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 37549.6,
+        "purchase_date": "2024-03-11",
+        "current_allocation": 18.77,
+        "performance_ytd": 0.064
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 27231.89,
+        "purchase_date": "2022-07-18",
+        "current_allocation": 13.61,
+        "performance_ytd": 0.2171
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 36674.48,
+        "purchase_date": "2025-02-20",
+        "current_allocation": 18.33,
+        "performance_ytd": -0.0633
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 15092.64,
+        "purchase_date": "2024-02-14",
+        "current_allocation": 7.54,
+        "performance_ytd": 0.0159
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 24465.09,
+        "purchase_date": "2020-10-05",
+        "current_allocation": 12.23,
+        "performance_ytd": -0.1131
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 4302.75,
+        "purchase_date": "2021-11-14",
+        "current_allocation": 2.15,
+        "performance_ytd": 0.0617
+      },
+      {
+        "asset_class": "Cash",
+        "value": 35322.97,
+        "purchase_date": "2023-03-25",
+        "current_allocation": 17.65,
+        "performance_ytd": 0.1553
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0006",
+    "total_value": 428134.57,
+    "holdings": [
+      {
+        "asset_class": "Cash",
+        "value": 69233.8,
+        "purchase_date": "2022-06-30",
+        "current_allocation": 16.17,
+        "performance_ytd": -0.0978
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 74567.38,
+        "purchase_date": "2020-10-28",
+        "current_allocation": 17.42,
+        "performance_ytd": -0.1455
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 77541.87,
+        "purchase_date": "2024-07-07",
+        "current_allocation": 18.11,
+        "performance_ytd": 0.2047
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 51420.34,
+        "purchase_date": "2023-05-28",
+        "current_allocation": 12.01,
+        "performance_ytd": -0.0649
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 80792.46,
+        "purchase_date": "2021-05-16",
+        "current_allocation": 18.87,
+        "performance_ytd": -0.1456
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 74578.72,
+        "purchase_date": "2020-08-04",
+        "current_allocation": 17.42,
+        "performance_ytd": 0.1049
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0007",
+    "total_value": 199910.2,
+    "holdings": [
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 5245.28,
+        "purchase_date": "2023-05-11",
+        "current_allocation": 2.62,
+        "performance_ytd": 0.1177
+      },
+      {
+        "asset_class": "Cash",
+        "value": 71548.88,
+        "purchase_date": "2023-11-04",
+        "current_allocation": 35.79,
+        "performance_ytd": -0.0019
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 115569.9,
+        "purchase_date": "2020-07-19",
+        "current_allocation": 57.81,
+        "performance_ytd": -0.0037
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 6598.97,
+        "purchase_date": "2021-05-26",
+        "current_allocation": 3.3,
+        "performance_ytd": 0.1253
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 947.17,
+        "purchase_date": "2022-09-19",
+        "current_allocation": 0.47,
+        "performance_ytd": 0.1673
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0008",
+    "total_value": 360413.51,
+    "holdings": [
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 136318.86,
+        "purchase_date": "2021-11-27",
+        "current_allocation": 37.82,
+        "performance_ytd": -0.0596
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 8768.56,
+        "purchase_date": "2022-02-08",
+        "current_allocation": 2.43,
+        "performance_ytd": 0.0362
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 60320.26,
+        "purchase_date": "2021-06-23",
+        "current_allocation": 16.74,
+        "performance_ytd": 0.049
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 155005.83,
+        "purchase_date": "2022-03-23",
+        "current_allocation": 43.01,
+        "performance_ytd": 0.2046
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0009",
+    "total_value": 1655563.71,
+    "holdings": [
+      {
+        "asset_class": "Cash",
+        "value": 166689.04,
+        "purchase_date": "2022-04-04",
+        "current_allocation": 10.07,
+        "performance_ytd": 0.0638
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 237257.43,
+        "purchase_date": "2022-12-29",
+        "current_allocation": 14.33,
+        "performance_ytd": 0.0818
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 32849.63,
+        "purchase_date": "2024-03-06",
+        "current_allocation": 1.98,
+        "performance_ytd": 0.2256
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 283546.88,
+        "purchase_date": "2020-07-06",
+        "current_allocation": 17.13,
+        "performance_ytd": -0.1486
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 280804.51,
+        "purchase_date": "2024-12-14",
+        "current_allocation": 16.96,
+        "performance_ytd": -0.0874
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 243458.14,
+        "purchase_date": "2024-04-29",
+        "current_allocation": 14.71,
+        "performance_ytd": -0.1114
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 244929.04,
+        "purchase_date": "2023-10-29",
+        "current_allocation": 14.79,
+        "performance_ytd": 0.0351
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 166029.04,
+        "purchase_date": "2021-04-18",
+        "current_allocation": 10.03,
+        "performance_ytd": 0.0887
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0010",
+    "total_value": 943989.25,
+    "holdings": [
+      {
+        "asset_class": "Government Bonds",
+        "value": 210982.33,
+        "purchase_date": "2020-07-02",
+        "current_allocation": 22.35,
+        "performance_ytd": 0.0194
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 307855.03,
+        "purchase_date": "2023-01-07",
+        "current_allocation": 32.61,
+        "performance_ytd": 0.2383
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 214767.79,
+        "purchase_date": "2020-11-19",
+        "current_allocation": 22.75,
+        "performance_ytd": 0.1103
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 210384.1,
+        "purchase_date": "2023-12-29",
+        "current_allocation": 22.29,
+        "performance_ytd": -0.0345
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0011",
+    "total_value": 389092.85,
+    "holdings": [
+      {
+        "asset_class": "International Developed",
+        "value": 104282.17,
+        "purchase_date": "2025-02-09",
+        "current_allocation": 26.8,
+        "performance_ytd": -0.0102
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 105178.91,
+        "purchase_date": "2022-02-04",
+        "current_allocation": 27.03,
+        "performance_ytd": 0.2123
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 56100.22,
+        "purchase_date": "2024-04-27",
+        "current_allocation": 14.42,
+        "performance_ytd": -0.1116
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 9731.35,
+        "purchase_date": "2023-12-10",
+        "current_allocation": 2.5,
+        "performance_ytd": -0.0622
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 24766.83,
+        "purchase_date": "2024-05-07",
+        "current_allocation": 6.37,
+        "performance_ytd": -0.0387
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 89033.37,
+        "purchase_date": "2022-02-24",
+        "current_allocation": 22.88,
+        "performance_ytd": -0.1043
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0012",
+    "total_value": 1900633.1,
+    "holdings": [
+      {
+        "asset_class": "Cash",
+        "value": 35094.89,
+        "purchase_date": "2023-08-08",
+        "current_allocation": 1.85,
+        "performance_ytd": 0.055
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 544522.36,
+        "purchase_date": "2022-11-01",
+        "current_allocation": 28.65,
+        "performance_ytd": 0.0933
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 86633.25,
+        "purchase_date": "2022-01-13",
+        "current_allocation": 4.56,
+        "performance_ytd": 0.027
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 572603.18,
+        "purchase_date": "2022-03-16",
+        "current_allocation": 30.13,
+        "performance_ytd": -0.0353
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 661779.42,
+        "purchase_date": "2023-04-01",
+        "current_allocation": 34.82,
+        "performance_ytd": -0.1233
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0013",
+    "total_value": 1108865.75,
+    "holdings": [
+      {
+        "asset_class": "Government Bonds",
+        "value": 108053.69,
+        "purchase_date": "2023-12-15",
+        "current_allocation": 9.74,
+        "performance_ytd": 0.148
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 222536.48,
+        "purchase_date": "2020-07-22",
+        "current_allocation": 20.07,
+        "performance_ytd": -0.0774
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 248341.66,
+        "purchase_date": "2021-10-09",
+        "current_allocation": 22.4,
+        "performance_ytd": 0.0271
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 169790.33,
+        "purchase_date": "2021-08-28",
+        "current_allocation": 15.31,
+        "performance_ytd": -0.0199
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 30036.53,
+        "purchase_date": "2023-12-24",
+        "current_allocation": 2.71,
+        "performance_ytd": -0.0946
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 19186.95,
+        "purchase_date": "2025-02-27",
+        "current_allocation": 1.73,
+        "performance_ytd": 0.1032
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 248924.11,
+        "purchase_date": "2021-11-07",
+        "current_allocation": 22.45,
+        "performance_ytd": 0.1981
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 61996.0,
+        "purchase_date": "2022-04-11",
+        "current_allocation": 5.59,
+        "performance_ytd": -0.004
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0014",
+    "total_value": 1666644.39,
+    "holdings": [
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 504206.44,
+        "purchase_date": "2021-03-31",
+        "current_allocation": 30.25,
+        "performance_ytd": -0.0449
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 317522.5,
+        "purchase_date": "2022-02-06",
+        "current_allocation": 19.05,
+        "performance_ytd": 0.07
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 440736.13,
+        "purchase_date": "2023-08-07",
+        "current_allocation": 26.44,
+        "performance_ytd": -0.0207
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 404179.32,
+        "purchase_date": "2020-10-26",
+        "current_allocation": 24.25,
+        "performance_ytd": 0.1053
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0015",
+    "total_value": 1645654.13,
+    "holdings": [
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 248442.04,
+        "purchase_date": "2024-07-20",
+        "current_allocation": 15.1,
+        "performance_ytd": 0.0077
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 32125.61,
+        "purchase_date": "2021-10-19",
+        "current_allocation": 1.95,
+        "performance_ytd": -0.1276
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 222377.1,
+        "purchase_date": "2022-12-21",
+        "current_allocation": 13.51,
+        "performance_ytd": 0.0268
+      },
+      {
+        "asset_class": "Cash",
+        "value": 338262.66,
+        "purchase_date": "2021-09-16",
+        "current_allocation": 20.55,
+        "performance_ytd": 0.0768
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 236023.74,
+        "purchase_date": "2022-08-29",
+        "current_allocation": 14.34,
+        "performance_ytd": 0.0622
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 274275.33,
+        "purchase_date": "2021-12-30",
+        "current_allocation": 16.67,
+        "performance_ytd": 0.2307
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 294147.65,
+        "purchase_date": "2024-01-10",
+        "current_allocation": 17.87,
+        "performance_ytd": 0.0832
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0016",
+    "total_value": 776143.61,
+    "holdings": [
+      {
+        "asset_class": "Emerging Markets",
+        "value": 103525.63,
+        "purchase_date": "2023-09-18",
+        "current_allocation": 13.34,
+        "performance_ytd": -0.0745
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 93410.44,
+        "purchase_date": "2022-01-30",
+        "current_allocation": 12.04,
+        "performance_ytd": -0.0313
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 42171.88,
+        "purchase_date": "2022-11-12",
+        "current_allocation": 5.43,
+        "performance_ytd": 0.1072
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 102114.94,
+        "purchase_date": "2021-01-13",
+        "current_allocation": 13.16,
+        "performance_ytd": 0.0631
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 71537.84,
+        "purchase_date": "2022-08-02",
+        "current_allocation": 9.22,
+        "performance_ytd": 0.049
+      },
+      {
+        "asset_class": "Cash",
+        "value": 65958.45,
+        "purchase_date": "2022-08-22",
+        "current_allocation": 8.5,
+        "performance_ytd": 0.0561
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 16545.8,
+        "purchase_date": "2024-02-03",
+        "current_allocation": 2.13,
+        "performance_ytd": 0.1744
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 143089.66,
+        "purchase_date": "2024-03-09",
+        "current_allocation": 18.44,
+        "performance_ytd": 0.1743
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 137788.97,
+        "purchase_date": "2021-02-06",
+        "current_allocation": 17.75,
+        "performance_ytd": -0.0401
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0017",
+    "total_value": 1737611.96,
+    "holdings": [
+      {
+        "asset_class": "Emerging Markets",
+        "value": 490876.0,
+        "purchase_date": "2024-05-28",
+        "current_allocation": 28.25,
+        "performance_ytd": 0.0124
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 737832.99,
+        "purchase_date": "2024-07-21",
+        "current_allocation": 42.46,
+        "performance_ytd": 0.0417
+      },
+      {
+        "asset_class": "Cash",
+        "value": 427787.1,
+        "purchase_date": "2022-10-01",
+        "current_allocation": 24.62,
+        "performance_ytd": 0.1326
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 81115.87,
+        "purchase_date": "2023-06-09",
+        "current_allocation": 4.67,
+        "performance_ytd": -0.1005
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0018",
+    "total_value": 1068425.8,
+    "holdings": [
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 70251.64,
+        "purchase_date": "2020-09-17",
+        "current_allocation": 6.58,
+        "performance_ytd": 0.0791
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 252473.68,
+        "purchase_date": "2023-05-14",
+        "current_allocation": 23.63,
+        "performance_ytd": -0.0914
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 323671.45,
+        "purchase_date": "2022-10-14",
+        "current_allocation": 30.29,
+        "performance_ytd": 0.1167
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 273539.88,
+        "purchase_date": "2021-04-16",
+        "current_allocation": 25.6,
+        "performance_ytd": -0.1144
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 148489.15,
+        "purchase_date": "2020-12-04",
+        "current_allocation": 13.9,
+        "performance_ytd": 0.244
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0019",
+    "total_value": 1665779.15,
+    "holdings": [
+      {
+        "asset_class": "Commodities",
+        "value": 255046.06,
+        "purchase_date": "2022-02-01",
+        "current_allocation": 15.31,
+        "performance_ytd": -0.0464
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 39205.28,
+        "purchase_date": "2023-04-06",
+        "current_allocation": 2.35,
+        "performance_ytd": 0.2112
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 55784.09,
+        "purchase_date": "2024-04-04",
+        "current_allocation": 3.35,
+        "performance_ytd": 0.1564
+      },
+      {
+        "asset_class": "Cash",
+        "value": 327026.84,
+        "purchase_date": "2022-11-20",
+        "current_allocation": 19.63,
+        "performance_ytd": 0.0157
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 90839.07,
+        "purchase_date": "2020-04-14",
+        "current_allocation": 5.45,
+        "performance_ytd": -0.1471
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 132277.41,
+        "purchase_date": "2024-09-19",
+        "current_allocation": 7.94,
+        "performance_ytd": 0.1459
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 238686.66,
+        "purchase_date": "2024-01-07",
+        "current_allocation": 14.33,
+        "performance_ytd": 0.1621
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 181667.68,
+        "purchase_date": "2023-07-18",
+        "current_allocation": 10.91,
+        "performance_ytd": 0.1381
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 345246.06,
+        "purchase_date": "2021-12-04",
+        "current_allocation": 20.73,
+        "performance_ytd": 0.2033
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0020",
+    "total_value": 940409.96,
+    "holdings": [
+      {
+        "asset_class": "Emerging Markets",
+        "value": 280077.54,
+        "purchase_date": "2022-09-29",
+        "current_allocation": 29.78,
+        "performance_ytd": 0.0394
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 387369.09,
+        "purchase_date": "2021-10-19",
+        "current_allocation": 41.19,
+        "performance_ytd": 0.1651
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 30813.73,
+        "purchase_date": "2023-12-11",
+        "current_allocation": 3.28,
+        "performance_ytd": 0.0972
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 156838.68,
+        "purchase_date": "2024-06-12",
+        "current_allocation": 16.68,
+        "performance_ytd": 0.0797
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 85310.92,
+        "purchase_date": "2022-03-01",
+        "current_allocation": 9.07,
+        "performance_ytd": -0.0553
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0021",
+    "total_value": 787331.38,
+    "holdings": [
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 78283.38,
+        "purchase_date": "2022-11-23",
+        "current_allocation": 9.94,
+        "performance_ytd": -0.1312
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 56085.85,
+        "purchase_date": "2021-01-19",
+        "current_allocation": 7.12,
+        "performance_ytd": 0.1736
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 128893.54,
+        "purchase_date": "2022-03-17",
+        "current_allocation": 16.37,
+        "performance_ytd": -0.0796
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 147162.46,
+        "purchase_date": "2021-07-28",
+        "current_allocation": 18.69,
+        "performance_ytd": -0.1034
+      },
+      {
+        "asset_class": "Cash",
+        "value": 50000.2,
+        "purchase_date": "2022-05-01",
+        "current_allocation": 6.35,
+        "performance_ytd": -0.1147
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 160037.34,
+        "purchase_date": "2022-08-29",
+        "current_allocation": 20.33,
+        "performance_ytd": 0.1334
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 166868.61,
+        "purchase_date": "2024-02-23",
+        "current_allocation": 21.19,
+        "performance_ytd": -0.0973
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0022",
+    "total_value": 451861.74,
+    "holdings": [
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 17258.47,
+        "purchase_date": "2021-02-04",
+        "current_allocation": 3.82,
+        "performance_ytd": -0.0698
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 50151.44,
+        "purchase_date": "2023-05-10",
+        "current_allocation": 11.1,
+        "performance_ytd": 0.0431
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 59320.65,
+        "purchase_date": "2022-01-05",
+        "current_allocation": 13.13,
+        "performance_ytd": 0.0434
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 43007.75,
+        "purchase_date": "2021-02-01",
+        "current_allocation": 9.52,
+        "performance_ytd": 0.2034
+      },
+      {
+        "asset_class": "Cash",
+        "value": 36962.02,
+        "purchase_date": "2021-02-16",
+        "current_allocation": 8.18,
+        "performance_ytd": -0.0746
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 92410.49,
+        "purchase_date": "2021-10-21",
+        "current_allocation": 20.45,
+        "performance_ytd": 0.0776
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 108056.83,
+        "purchase_date": "2025-02-04",
+        "current_allocation": 23.91,
+        "performance_ytd": 0.1054
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 44694.09,
+        "purchase_date": "2022-01-14",
+        "current_allocation": 9.89,
+        "performance_ytd": 0.0952
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0023",
+    "total_value": 974310.29,
+    "holdings": [
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 235164.4,
+        "purchase_date": "2020-11-08",
+        "current_allocation": 24.14,
+        "performance_ytd": 0.088
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 265226.97,
+        "purchase_date": "2020-08-03",
+        "current_allocation": 27.22,
+        "performance_ytd": -0.1377
+      },
+      {
+        "asset_class": "Cash",
+        "value": 46112.16,
+        "purchase_date": "2023-06-29",
+        "current_allocation": 4.73,
+        "performance_ytd": 0.1173
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 145221.87,
+        "purchase_date": "2024-12-29",
+        "current_allocation": 14.91,
+        "performance_ytd": 0.1843
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 282584.89,
+        "purchase_date": "2022-05-23",
+        "current_allocation": 29.0,
+        "performance_ytd": 0.0714
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0024",
+    "total_value": 1291427.32,
+    "holdings": [
+      {
+        "asset_class": "Real Estate",
+        "value": 75169.8,
+        "purchase_date": "2023-10-29",
+        "current_allocation": 5.82,
+        "performance_ytd": 0.1737
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 213263.64,
+        "purchase_date": "2025-03-21",
+        "current_allocation": 16.51,
+        "performance_ytd": 0.0787
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 41697.56,
+        "purchase_date": "2021-11-25",
+        "current_allocation": 3.23,
+        "performance_ytd": -0.0288
+      },
+      {
+        "asset_class": "Cash",
+        "value": 174645.73,
+        "purchase_date": "2020-08-31",
+        "current_allocation": 13.52,
+        "performance_ytd": -0.0926
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 281317.07,
+        "purchase_date": "2021-07-08",
+        "current_allocation": 21.78,
+        "performance_ytd": 0.0643
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 232367.19,
+        "purchase_date": "2024-08-28",
+        "current_allocation": 17.99,
+        "performance_ytd": -0.0395
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 272966.33,
+        "purchase_date": "2021-02-21",
+        "current_allocation": 21.14,
+        "performance_ytd": 0.0273
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0025",
+    "total_value": 995230.96,
+    "holdings": [
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 84476.82,
+        "purchase_date": "2020-11-07",
+        "current_allocation": 8.49,
+        "performance_ytd": 0.2035
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 146269.34,
+        "purchase_date": "2022-02-03",
+        "current_allocation": 14.7,
+        "performance_ytd": 0.1461
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 75005.69,
+        "purchase_date": "2023-11-17",
+        "current_allocation": 7.54,
+        "performance_ytd": 0.0261
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 92009.92,
+        "purchase_date": "2022-02-11",
+        "current_allocation": 9.25,
+        "performance_ytd": 0.2006
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 116000.53,
+        "purchase_date": "2020-12-26",
+        "current_allocation": 11.66,
+        "performance_ytd": 0.1397
+      },
+      {
+        "asset_class": "Cash",
+        "value": 121882.37,
+        "purchase_date": "2020-08-21",
+        "current_allocation": 12.25,
+        "performance_ytd": 0.1909
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 75419.1,
+        "purchase_date": "2023-05-30",
+        "current_allocation": 7.58,
+        "performance_ytd": -0.0371
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 130080.11,
+        "purchase_date": "2022-07-19",
+        "current_allocation": 13.07,
+        "performance_ytd": 0.0161
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 154087.08,
+        "purchase_date": "2020-11-15",
+        "current_allocation": 15.48,
+        "performance_ytd": 0.1761
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0026",
+    "total_value": 767343.82,
+    "holdings": [
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 44377.64,
+        "purchase_date": "2022-10-26",
+        "current_allocation": 5.78,
+        "performance_ytd": 0.2246
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 147189.26,
+        "purchase_date": "2023-07-08",
+        "current_allocation": 19.18,
+        "performance_ytd": 0.0634
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 59898.03,
+        "purchase_date": "2022-07-13",
+        "current_allocation": 7.81,
+        "performance_ytd": -0.0637
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 158796.7,
+        "purchase_date": "2024-09-02",
+        "current_allocation": 20.69,
+        "performance_ytd": 0.2427
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 89213.8,
+        "purchase_date": "2023-05-04",
+        "current_allocation": 11.63,
+        "performance_ytd": -0.0768
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 104324.98,
+        "purchase_date": "2023-04-08",
+        "current_allocation": 13.6,
+        "performance_ytd": -0.1212
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 144453.93,
+        "purchase_date": "2022-05-07",
+        "current_allocation": 18.83,
+        "performance_ytd": -0.0005
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 19089.48,
+        "purchase_date": "2024-09-10",
+        "current_allocation": 2.49,
+        "performance_ytd": 0.2403
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0027",
+    "total_value": 437659.55,
+    "holdings": [
+      {
+        "asset_class": "Government Bonds",
+        "value": 53071.49,
+        "purchase_date": "2021-09-29",
+        "current_allocation": 12.13,
+        "performance_ytd": 0.1181
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 38890.1,
+        "purchase_date": "2022-07-11",
+        "current_allocation": 8.89,
+        "performance_ytd": 0.113
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 230987.82,
+        "purchase_date": "2024-02-12",
+        "current_allocation": 52.78,
+        "performance_ytd": 0.184
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 47063.61,
+        "purchase_date": "2022-02-25",
+        "current_allocation": 10.75,
+        "performance_ytd": 0.1842
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 67646.53,
+        "purchase_date": "2020-10-04",
+        "current_allocation": 15.46,
+        "performance_ytd": -0.1363
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0028",
+    "total_value": 1159993.74,
+    "holdings": [
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 377264.41,
+        "purchase_date": "2020-10-04",
+        "current_allocation": 32.52,
+        "performance_ytd": -0.0876
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 147887.65,
+        "purchase_date": "2023-08-22",
+        "current_allocation": 12.75,
+        "performance_ytd": 0.0577
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 139324.71,
+        "purchase_date": "2021-01-17",
+        "current_allocation": 12.01,
+        "performance_ytd": 0.0362
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 495516.97,
+        "purchase_date": "2024-08-06",
+        "current_allocation": 42.72,
+        "performance_ytd": 0.1077
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0029",
+    "total_value": 1110578.16,
+    "holdings": [
+      {
+        "asset_class": "Emerging Markets",
+        "value": 659.79,
+        "purchase_date": "2020-06-23",
+        "current_allocation": 0.06,
+        "performance_ytd": 0.0065
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 71305.55,
+        "purchase_date": "2021-04-13",
+        "current_allocation": 6.42,
+        "performance_ytd": 0.0953
+      },
+      {
+        "asset_class": "Cash",
+        "value": 189960.09,
+        "purchase_date": "2025-02-11",
+        "current_allocation": 17.1,
+        "performance_ytd": -0.0753
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 32732.13,
+        "purchase_date": "2020-04-23",
+        "current_allocation": 2.95,
+        "performance_ytd": 0.2431
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 197989.05,
+        "purchase_date": "2025-02-01",
+        "current_allocation": 17.83,
+        "performance_ytd": 0.0081
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 94669.44,
+        "purchase_date": "2023-08-30",
+        "current_allocation": 8.52,
+        "performance_ytd": 0.0106
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 184765.81,
+        "purchase_date": "2025-01-28",
+        "current_allocation": 16.64,
+        "performance_ytd": -0.049
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 43443.54,
+        "purchase_date": "2022-07-27",
+        "current_allocation": 3.91,
+        "performance_ytd": -0.0781
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 194011.12,
+        "purchase_date": "2021-08-07",
+        "current_allocation": 17.47,
+        "performance_ytd": 0.1063
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 101041.64,
+        "purchase_date": "2020-05-11",
+        "current_allocation": 9.1,
+        "performance_ytd": -0.0662
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0030",
+    "total_value": 1984326.06,
+    "holdings": [
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 533902.42,
+        "purchase_date": "2022-04-25",
+        "current_allocation": 26.91,
+        "performance_ytd": 0.0506
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 257806.64,
+        "purchase_date": "2023-04-02",
+        "current_allocation": 12.99,
+        "performance_ytd": -0.0277
+      },
+      {
+        "asset_class": "Cash",
+        "value": 99912.98,
+        "purchase_date": "2022-05-17",
+        "current_allocation": 5.04,
+        "performance_ytd": 0.2308
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 164303.85,
+        "purchase_date": "2023-09-15",
+        "current_allocation": 8.28,
+        "performance_ytd": 0.2369
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 514577.25,
+        "purchase_date": "2023-07-29",
+        "current_allocation": 25.93,
+        "performance_ytd": -0.14
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 20506.59,
+        "purchase_date": "2023-04-30",
+        "current_allocation": 1.03,
+        "performance_ytd": 0.1307
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 393316.33,
+        "purchase_date": "2021-03-08",
+        "current_allocation": 19.82,
+        "performance_ytd": 0.0078
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0031",
+    "total_value": 168317.55,
+    "holdings": [
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 25597.03,
+        "purchase_date": "2020-06-16",
+        "current_allocation": 15.21,
+        "performance_ytd": 0.1931
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 25626.95,
+        "purchase_date": "2023-09-21",
+        "current_allocation": 15.23,
+        "performance_ytd": -0.1143
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 37060.32,
+        "purchase_date": "2022-01-04",
+        "current_allocation": 22.02,
+        "performance_ytd": -0.1106
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 2217.15,
+        "purchase_date": "2022-10-27",
+        "current_allocation": 1.32,
+        "performance_ytd": 0.0719
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 2866.77,
+        "purchase_date": "2022-11-12",
+        "current_allocation": 1.7,
+        "performance_ytd": -0.1453
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 1580.9,
+        "purchase_date": "2020-06-05",
+        "current_allocation": 0.94,
+        "performance_ytd": 0.1887
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 39226.67,
+        "purchase_date": "2024-08-21",
+        "current_allocation": 23.31,
+        "performance_ytd": 0.0328
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 34141.76,
+        "purchase_date": "2025-01-22",
+        "current_allocation": 20.28,
+        "performance_ytd": 0.1172
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0032",
+    "total_value": 1608835.91,
+    "holdings": [
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 522662.78,
+        "purchase_date": "2023-06-07",
+        "current_allocation": 32.49,
+        "performance_ytd": -0.1035
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 710270.21,
+        "purchase_date": "2021-01-16",
+        "current_allocation": 44.15,
+        "performance_ytd": 0.239
+      },
+      {
+        "asset_class": "Cash",
+        "value": 71083.5,
+        "purchase_date": "2024-01-26",
+        "current_allocation": 4.42,
+        "performance_ytd": -0.0201
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 304819.42,
+        "purchase_date": "2020-11-01",
+        "current_allocation": 18.95,
+        "performance_ytd": 0.1335
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0033",
+    "total_value": 1778264.2,
+    "holdings": [
+      {
+        "asset_class": "Commodities",
+        "value": 78631.42,
+        "purchase_date": "2022-01-26",
+        "current_allocation": 4.42,
+        "performance_ytd": -0.1385
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 151306.07,
+        "purchase_date": "2023-08-14",
+        "current_allocation": 8.51,
+        "performance_ytd": 0.2225
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 147852.52,
+        "purchase_date": "2023-11-15",
+        "current_allocation": 8.31,
+        "performance_ytd": 0.0775
+      },
+      {
+        "asset_class": "Cash",
+        "value": 151542.86,
+        "purchase_date": "2022-05-16",
+        "current_allocation": 8.52,
+        "performance_ytd": 0.2485
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 370256.1,
+        "purchase_date": "2022-08-27",
+        "current_allocation": 20.82,
+        "performance_ytd": 0.1002
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 293224.37,
+        "purchase_date": "2024-02-22",
+        "current_allocation": 16.49,
+        "performance_ytd": 0.2327
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 306106.29,
+        "purchase_date": "2020-06-25",
+        "current_allocation": 17.21,
+        "performance_ytd": 0.1684
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 197985.13,
+        "purchase_date": "2024-03-14",
+        "current_allocation": 11.13,
+        "performance_ytd": -0.041
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 81359.44,
+        "purchase_date": "2022-10-01",
+        "current_allocation": 4.58,
+        "performance_ytd": 0.2114
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0034",
+    "total_value": 389581.75,
+    "holdings": [
+      {
+        "asset_class": "Cash",
+        "value": 63697.63,
+        "purchase_date": "2021-04-08",
+        "current_allocation": 16.35,
+        "performance_ytd": 0.1961
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 42998.72,
+        "purchase_date": "2021-01-26",
+        "current_allocation": 11.04,
+        "performance_ytd": 0.1764
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 31341.16,
+        "purchase_date": "2022-03-13",
+        "current_allocation": 8.04,
+        "performance_ytd": 0.0735
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 65151.78,
+        "purchase_date": "2022-01-29",
+        "current_allocation": 16.72,
+        "performance_ytd": 0.0404
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 47742.8,
+        "purchase_date": "2024-08-08",
+        "current_allocation": 12.25,
+        "performance_ytd": -0.0832
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 46006.98,
+        "purchase_date": "2023-02-25",
+        "current_allocation": 11.81,
+        "performance_ytd": 0.2229
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 30653.89,
+        "purchase_date": "2024-01-09",
+        "current_allocation": 7.87,
+        "performance_ytd": 0.0109
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 61988.79,
+        "purchase_date": "2023-11-03",
+        "current_allocation": 15.91,
+        "performance_ytd": 0.2183
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0035",
+    "total_value": 883736.64,
+    "holdings": [
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 72838.3,
+        "purchase_date": "2023-03-09",
+        "current_allocation": 8.24,
+        "performance_ytd": -0.0166
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 157686.41,
+        "purchase_date": "2021-12-27",
+        "current_allocation": 17.84,
+        "performance_ytd": 0.1874
+      },
+      {
+        "asset_class": "Cash",
+        "value": 177596.27,
+        "purchase_date": "2023-06-14",
+        "current_allocation": 20.1,
+        "performance_ytd": -0.006
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 51424.37,
+        "purchase_date": "2021-06-12",
+        "current_allocation": 5.82,
+        "performance_ytd": -0.0785
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 292775.58,
+        "purchase_date": "2023-05-05",
+        "current_allocation": 33.13,
+        "performance_ytd": 0.0401
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 19894.08,
+        "purchase_date": "2020-05-16",
+        "current_allocation": 2.25,
+        "performance_ytd": 0.0969
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 111521.63,
+        "purchase_date": "2024-06-25",
+        "current_allocation": 12.62,
+        "performance_ytd": 0.1023
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0036",
+    "total_value": 353804.95,
+    "holdings": [
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 59022.04,
+        "purchase_date": "2021-08-27",
+        "current_allocation": 16.68,
+        "performance_ytd": 0.0648
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 37423.74,
+        "purchase_date": "2023-02-08",
+        "current_allocation": 10.58,
+        "performance_ytd": -0.1443
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 91957.86,
+        "purchase_date": "2024-05-11",
+        "current_allocation": 25.99,
+        "performance_ytd": -0.1302
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 9939.66,
+        "purchase_date": "2024-03-19",
+        "current_allocation": 2.81,
+        "performance_ytd": 0.0347
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 43788.08,
+        "purchase_date": "2022-12-07",
+        "current_allocation": 12.38,
+        "performance_ytd": 0.2382
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 111673.57,
+        "purchase_date": "2021-08-08",
+        "current_allocation": 31.56,
+        "performance_ytd": 0.237
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0037",
+    "total_value": 1798009.26,
+    "holdings": [
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 299812.51,
+        "purchase_date": "2022-08-04",
+        "current_allocation": 16.67,
+        "performance_ytd": 0.0352
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 298318.67,
+        "purchase_date": "2025-02-10",
+        "current_allocation": 16.59,
+        "performance_ytd": 0.2396
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 145627.59,
+        "purchase_date": "2020-09-25",
+        "current_allocation": 8.1,
+        "performance_ytd": -0.0662
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 65307.55,
+        "purchase_date": "2021-02-14",
+        "current_allocation": 3.63,
+        "performance_ytd": -0.1125
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 399007.53,
+        "purchase_date": "2020-11-12",
+        "current_allocation": 22.19,
+        "performance_ytd": 0.0591
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 29860.68,
+        "purchase_date": "2023-03-07",
+        "current_allocation": 1.66,
+        "performance_ytd": -0.0351
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 102096.26,
+        "purchase_date": "2023-07-19",
+        "current_allocation": 5.68,
+        "performance_ytd": 0.1809
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 401591.61,
+        "purchase_date": "2021-06-23",
+        "current_allocation": 22.34,
+        "performance_ytd": -0.0851
+      },
+      {
+        "asset_class": "Cash",
+        "value": 56386.86,
+        "purchase_date": "2022-10-01",
+        "current_allocation": 3.14,
+        "performance_ytd": 0.1987
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0038",
+    "total_value": 632102.09,
+    "holdings": [
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 170100.18,
+        "purchase_date": "2022-10-27",
+        "current_allocation": 26.91,
+        "performance_ytd": 0.0457
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 79825.59,
+        "purchase_date": "2024-11-07",
+        "current_allocation": 12.63,
+        "performance_ytd": 0.2156
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 139293.31,
+        "purchase_date": "2022-03-18",
+        "current_allocation": 22.04,
+        "performance_ytd": 0.1722
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 20171.73,
+        "purchase_date": "2020-07-09",
+        "current_allocation": 3.19,
+        "performance_ytd": 0.1897
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 170861.18,
+        "purchase_date": "2022-02-25",
+        "current_allocation": 27.03,
+        "performance_ytd": 0.1846
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 8982.67,
+        "purchase_date": "2020-04-29",
+        "current_allocation": 1.42,
+        "performance_ytd": 0.1156
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 42867.43,
+        "purchase_date": "2022-12-12",
+        "current_allocation": 6.78,
+        "performance_ytd": -0.1238
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0039",
+    "total_value": 347576.85,
+    "holdings": [
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 152635.82,
+        "purchase_date": "2022-09-21",
+        "current_allocation": 43.91,
+        "performance_ytd": -0.0726
+      },
+      {
+        "asset_class": "Cash",
+        "value": 168829.53,
+        "purchase_date": "2024-11-25",
+        "current_allocation": 48.57,
+        "performance_ytd": 0.0237
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 26111.5,
+        "purchase_date": "2021-04-25",
+        "current_allocation": 7.51,
+        "performance_ytd": 0.0123
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0040",
+    "total_value": 1287915.4,
+    "holdings": [
+      {
+        "asset_class": "Government Bonds",
+        "value": 499507.93,
+        "purchase_date": "2022-11-03",
+        "current_allocation": 38.78,
+        "performance_ytd": -0.1086
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 474467.96,
+        "purchase_date": "2021-06-19",
+        "current_allocation": 36.84,
+        "performance_ytd": -0.064
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 85136.95,
+        "purchase_date": "2024-03-09",
+        "current_allocation": 6.61,
+        "performance_ytd": 0.2208
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 228802.56,
+        "purchase_date": "2020-07-08",
+        "current_allocation": 17.77,
+        "performance_ytd": -0.0636
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0041",
+    "total_value": 1404115.07,
+    "holdings": [
+      {
+        "asset_class": "Commodities",
+        "value": 47292.43,
+        "purchase_date": "2024-09-17",
+        "current_allocation": 3.37,
+        "performance_ytd": 0.1894
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 111246.96,
+        "purchase_date": "2023-06-27",
+        "current_allocation": 7.92,
+        "performance_ytd": -0.0934
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 359805.75,
+        "purchase_date": "2024-02-17",
+        "current_allocation": 25.63,
+        "performance_ytd": 0.1215
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 306004.35,
+        "purchase_date": "2025-03-22",
+        "current_allocation": 21.79,
+        "performance_ytd": -0.0654
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 310314.62,
+        "purchase_date": "2020-10-07",
+        "current_allocation": 22.1,
+        "performance_ytd": 0.0993
+      },
+      {
+        "asset_class": "Cash",
+        "value": 269450.96,
+        "purchase_date": "2023-05-14",
+        "current_allocation": 19.19,
+        "performance_ytd": 0.0795
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0042",
+    "total_value": 1525635.12,
+    "holdings": [
+      {
+        "asset_class": "Real Estate",
+        "value": 48215.92,
+        "purchase_date": "2023-11-14",
+        "current_allocation": 3.16,
+        "performance_ytd": 0.1042
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 273606.5,
+        "purchase_date": "2024-01-29",
+        "current_allocation": 17.93,
+        "performance_ytd": 0.1159
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 286704.65,
+        "purchase_date": "2023-10-24",
+        "current_allocation": 18.79,
+        "performance_ytd": -0.1207
+      },
+      {
+        "asset_class": "Cash",
+        "value": 198464.92,
+        "purchase_date": "2020-08-01",
+        "current_allocation": 13.01,
+        "performance_ytd": -0.1182
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 242346.86,
+        "purchase_date": "2022-01-21",
+        "current_allocation": 15.88,
+        "performance_ytd": 0.1135
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 59826.37,
+        "purchase_date": "2024-05-25",
+        "current_allocation": 3.92,
+        "performance_ytd": -0.0152
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 252149.48,
+        "purchase_date": "2023-08-09",
+        "current_allocation": 16.53,
+        "performance_ytd": -0.0293
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 164320.42,
+        "purchase_date": "2024-04-14",
+        "current_allocation": 10.77,
+        "performance_ytd": -0.045
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0043",
+    "total_value": 851767.0,
+    "holdings": [
+      {
+        "asset_class": "International Developed",
+        "value": 41471.11,
+        "purchase_date": "2025-01-25",
+        "current_allocation": 4.87,
+        "performance_ytd": 0.0807
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 271457.32,
+        "purchase_date": "2023-04-11",
+        "current_allocation": 31.87,
+        "performance_ytd": 0.1627
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 187198.42,
+        "purchase_date": "2023-09-22",
+        "current_allocation": 21.98,
+        "performance_ytd": 0.1072
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 93923.75,
+        "purchase_date": "2021-02-03",
+        "current_allocation": 11.03,
+        "performance_ytd": 0.1394
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 152979.21,
+        "purchase_date": "2023-04-13",
+        "current_allocation": 17.96,
+        "performance_ytd": 0.0066
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 104737.19,
+        "purchase_date": "2021-06-07",
+        "current_allocation": 12.3,
+        "performance_ytd": -0.1232
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0044",
+    "total_value": 100655.03,
+    "holdings": [
+      {
+        "asset_class": "International Developed",
+        "value": 14511.35,
+        "purchase_date": "2024-03-16",
+        "current_allocation": 14.42,
+        "performance_ytd": -0.1068
+      },
+      {
+        "asset_class": "Cash",
+        "value": 12274.54,
+        "purchase_date": "2021-02-03",
+        "current_allocation": 12.19,
+        "performance_ytd": 0.0758
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 24932.09,
+        "purchase_date": "2022-02-06",
+        "current_allocation": 24.77,
+        "performance_ytd": 0.0434
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 26336.1,
+        "purchase_date": "2023-08-10",
+        "current_allocation": 26.16,
+        "performance_ytd": 0.1794
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 17711.63,
+        "purchase_date": "2022-01-04",
+        "current_allocation": 17.6,
+        "performance_ytd": -0.1493
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 4889.32,
+        "purchase_date": "2021-06-25",
+        "current_allocation": 4.86,
+        "performance_ytd": -0.1376
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0045",
+    "total_value": 1000813.4,
+    "holdings": [
+      {
+        "asset_class": "Commodities",
+        "value": 256333.46,
+        "purchase_date": "2023-08-05",
+        "current_allocation": 25.61,
+        "performance_ytd": 0.1085
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 106868.57,
+        "purchase_date": "2021-01-31",
+        "current_allocation": 10.68,
+        "performance_ytd": 0.027
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 309906.51,
+        "purchase_date": "2021-03-25",
+        "current_allocation": 30.97,
+        "performance_ytd": 0.1147
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 48909.04,
+        "purchase_date": "2024-11-24",
+        "current_allocation": 4.89,
+        "performance_ytd": -0.055
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 278795.82,
+        "purchase_date": "2023-02-18",
+        "current_allocation": 27.86,
+        "performance_ytd": 0.1106
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0046",
+    "total_value": 1611026.32,
+    "holdings": [
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 346517.82,
+        "purchase_date": "2022-06-11",
+        "current_allocation": 21.51,
+        "performance_ytd": 0.2378
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 379128.35,
+        "purchase_date": "2024-03-15",
+        "current_allocation": 23.53,
+        "performance_ytd": 0.1878
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 171242.79,
+        "purchase_date": "2023-08-18",
+        "current_allocation": 10.63,
+        "performance_ytd": 0.0125
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 252337.01,
+        "purchase_date": "2022-06-25",
+        "current_allocation": 15.66,
+        "performance_ytd": -0.1482
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 242795.14,
+        "purchase_date": "2021-03-22",
+        "current_allocation": 15.07,
+        "performance_ytd": 0.1538
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 219005.21,
+        "purchase_date": "2022-11-05",
+        "current_allocation": 13.59,
+        "performance_ytd": -0.0432
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0047",
+    "total_value": 960965.09,
+    "holdings": [
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 198751.44,
+        "purchase_date": "2021-08-20",
+        "current_allocation": 20.68,
+        "performance_ytd": -0.1187
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 93773.9,
+        "purchase_date": "2024-04-29",
+        "current_allocation": 9.76,
+        "performance_ytd": 0.0712
+      },
+      {
+        "asset_class": "Cash",
+        "value": 73598.49,
+        "purchase_date": "2022-02-15",
+        "current_allocation": 7.66,
+        "performance_ytd": -0.1313
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 178274.67,
+        "purchase_date": "2021-03-27",
+        "current_allocation": 18.55,
+        "performance_ytd": 0.2055
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 172002.34,
+        "purchase_date": "2024-09-14",
+        "current_allocation": 17.9,
+        "performance_ytd": 0.1392
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 189702.06,
+        "purchase_date": "2020-12-05",
+        "current_allocation": 19.74,
+        "performance_ytd": 0.2291
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 54862.19,
+        "purchase_date": "2021-04-01",
+        "current_allocation": 5.71,
+        "performance_ytd": 0.1731
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0048",
+    "total_value": 1957322.88,
+    "holdings": [
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 15213.68,
+        "purchase_date": "2021-10-04",
+        "current_allocation": 0.78,
+        "performance_ytd": 0.1689
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 175851.16,
+        "purchase_date": "2023-03-10",
+        "current_allocation": 8.98,
+        "performance_ytd": 0.0585
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 362456.43,
+        "purchase_date": "2020-07-14",
+        "current_allocation": 18.52,
+        "performance_ytd": 0.1371
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 463369.71,
+        "purchase_date": "2021-12-06",
+        "current_allocation": 23.67,
+        "performance_ytd": -0.1437
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 35257.06,
+        "purchase_date": "2022-09-13",
+        "current_allocation": 1.8,
+        "performance_ytd": -0.0512
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 423701.46,
+        "purchase_date": "2023-06-01",
+        "current_allocation": 21.65,
+        "performance_ytd": 0.0668
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 456765.61,
+        "purchase_date": "2023-03-04",
+        "current_allocation": 23.34,
+        "performance_ytd": -0.1007
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 24707.77,
+        "purchase_date": "2023-06-28",
+        "current_allocation": 1.26,
+        "performance_ytd": 0.2382
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0049",
+    "total_value": 656705.11,
+    "holdings": [
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 83885.27,
+        "purchase_date": "2023-08-26",
+        "current_allocation": 12.77,
+        "performance_ytd": 0.2016
+      },
+      {
+        "asset_class": "Cash",
+        "value": 267592.51,
+        "purchase_date": "2022-09-07",
+        "current_allocation": 40.75,
+        "performance_ytd": 0.191
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 77853.64,
+        "purchase_date": "2023-07-22",
+        "current_allocation": 11.86,
+        "performance_ytd": 0.1981
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 113536.42,
+        "purchase_date": "2020-11-19",
+        "current_allocation": 17.29,
+        "performance_ytd": 0.008
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 6963.91,
+        "purchase_date": "2022-01-23",
+        "current_allocation": 1.06,
+        "performance_ytd": -0.0021
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 106873.36,
+        "purchase_date": "2024-07-01",
+        "current_allocation": 16.27,
+        "performance_ytd": -0.0028
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0050",
+    "total_value": 952266.74,
+    "holdings": [
+      {
+        "asset_class": "Government Bonds",
+        "value": 29546.16,
+        "purchase_date": "2024-06-21",
+        "current_allocation": 3.1,
+        "performance_ytd": -0.1407
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 104292.06,
+        "purchase_date": "2023-01-11",
+        "current_allocation": 10.95,
+        "performance_ytd": 0.1196
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 52990.52,
+        "purchase_date": "2024-05-04",
+        "current_allocation": 5.56,
+        "performance_ytd": 0.1642
+      },
+      {
+        "asset_class": "Cash",
+        "value": 311499.95,
+        "purchase_date": "2021-03-29",
+        "current_allocation": 32.71,
+        "performance_ytd": 0.0375
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 143259.12,
+        "purchase_date": "2021-10-13",
+        "current_allocation": 15.04,
+        "performance_ytd": 0.1769
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 310678.93,
+        "purchase_date": "2024-04-18",
+        "current_allocation": 32.63,
+        "performance_ytd": 0.1982
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0051",
+    "total_value": 1218331.27,
+    "holdings": [
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 94943.16,
+        "purchase_date": "2024-10-29",
+        "current_allocation": 7.79,
+        "performance_ytd": -0.0596
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 298148.31,
+        "purchase_date": "2023-02-09",
+        "current_allocation": 24.47,
+        "performance_ytd": 0.2389
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 253962.31,
+        "purchase_date": "2024-05-08",
+        "current_allocation": 20.85,
+        "performance_ytd": 0.073
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 321275.84,
+        "purchase_date": "2023-01-23",
+        "current_allocation": 26.37,
+        "performance_ytd": -0.1241
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 250001.65,
+        "purchase_date": "2020-12-25",
+        "current_allocation": 20.52,
+        "performance_ytd": 0.1022
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0052",
+    "total_value": 209606.65,
+    "holdings": [
+      {
+        "asset_class": "Emerging Markets",
+        "value": 21621.83,
+        "purchase_date": "2024-01-24",
+        "current_allocation": 10.32,
+        "performance_ytd": 0.1943
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 33027.84,
+        "purchase_date": "2023-11-07",
+        "current_allocation": 15.76,
+        "performance_ytd": 0.2093
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 13913.06,
+        "purchase_date": "2021-09-23",
+        "current_allocation": 6.64,
+        "performance_ytd": -0.0346
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 27861.14,
+        "purchase_date": "2023-02-26",
+        "current_allocation": 13.29,
+        "performance_ytd": 0.1035
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 28283.99,
+        "purchase_date": "2020-12-12",
+        "current_allocation": 13.49,
+        "performance_ytd": -0.0487
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 21938.08,
+        "purchase_date": "2021-06-28",
+        "current_allocation": 10.47,
+        "performance_ytd": 0.0175
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 19790.22,
+        "purchase_date": "2022-08-08",
+        "current_allocation": 9.44,
+        "performance_ytd": -0.1293
+      },
+      {
+        "asset_class": "Cash",
+        "value": 24660.69,
+        "purchase_date": "2021-06-25",
+        "current_allocation": 11.77,
+        "performance_ytd": 0.1626
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 12034.33,
+        "purchase_date": "2022-07-20",
+        "current_allocation": 5.74,
+        "performance_ytd": 0.0732
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 6142.9,
+        "purchase_date": "2024-11-03",
+        "current_allocation": 2.93,
+        "performance_ytd": -0.0885
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 332.57,
+        "purchase_date": "2020-09-16",
+        "current_allocation": 0.16,
+        "performance_ytd": -0.0087
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0053",
+    "total_value": 1365189.24,
+    "holdings": [
+      {
+        "asset_class": "Cash",
+        "value": 552651.35,
+        "purchase_date": "2022-03-31",
+        "current_allocation": 40.48,
+        "performance_ytd": 0.0331
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 511463.6,
+        "purchase_date": "2023-11-25",
+        "current_allocation": 37.46,
+        "performance_ytd": -0.0985
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 219809.16,
+        "purchase_date": "2020-04-18",
+        "current_allocation": 16.1,
+        "performance_ytd": -0.0916
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 81265.13,
+        "purchase_date": "2022-09-27",
+        "current_allocation": 5.95,
+        "performance_ytd": -0.1112
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0054",
+    "total_value": 1953037.39,
+    "holdings": [
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 205116.76,
+        "purchase_date": "2024-09-07",
+        "current_allocation": 10.5,
+        "performance_ytd": -0.0915
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 399496.86,
+        "purchase_date": "2024-03-01",
+        "current_allocation": 20.46,
+        "performance_ytd": 0.0478
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 51524.38,
+        "purchase_date": "2024-11-10",
+        "current_allocation": 2.64,
+        "performance_ytd": 0.1594
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 284383.53,
+        "purchase_date": "2023-01-03",
+        "current_allocation": 14.56,
+        "performance_ytd": 0.24
+      },
+      {
+        "asset_class": "Cash",
+        "value": 189128.74,
+        "purchase_date": "2023-06-13",
+        "current_allocation": 9.68,
+        "performance_ytd": 0.0651
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 253790.03,
+        "purchase_date": "2020-05-11",
+        "current_allocation": 12.99,
+        "performance_ytd": 0.1848
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 74066.73,
+        "purchase_date": "2024-04-07",
+        "current_allocation": 3.79,
+        "performance_ytd": -0.0206
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 495530.36,
+        "purchase_date": "2023-01-27",
+        "current_allocation": 25.37,
+        "performance_ytd": -0.1471
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0055",
+    "total_value": 1506799.24,
+    "holdings": [
+      {
+        "asset_class": "Emerging Markets",
+        "value": 273514.86,
+        "purchase_date": "2022-02-18",
+        "current_allocation": 18.15,
+        "performance_ytd": 0.1146
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 114604.18,
+        "purchase_date": "2021-01-29",
+        "current_allocation": 7.61,
+        "performance_ytd": -0.0582
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 63494.18,
+        "purchase_date": "2020-07-22",
+        "current_allocation": 4.21,
+        "performance_ytd": -0.1052
+      },
+      {
+        "asset_class": "Cash",
+        "value": 460882.69,
+        "purchase_date": "2021-11-18",
+        "current_allocation": 30.59,
+        "performance_ytd": 0.1355
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 193732.62,
+        "purchase_date": "2022-10-07",
+        "current_allocation": 12.86,
+        "performance_ytd": -0.1219
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 400570.71,
+        "purchase_date": "2022-10-11",
+        "current_allocation": 26.58,
+        "performance_ytd": 0.2328
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0056",
+    "total_value": 992017.29,
+    "holdings": [
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 190753.17,
+        "purchase_date": "2025-02-28",
+        "current_allocation": 19.23,
+        "performance_ytd": 0.1364
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 275785.27,
+        "purchase_date": "2023-03-22",
+        "current_allocation": 27.8,
+        "performance_ytd": 0.2214
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 232451.08,
+        "purchase_date": "2021-04-18",
+        "current_allocation": 23.43,
+        "performance_ytd": -0.0122
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 293027.77,
+        "purchase_date": "2024-12-28",
+        "current_allocation": 29.54,
+        "performance_ytd": 0.0522
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0057",
+    "total_value": 1457370.14,
+    "holdings": [
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 273371.54,
+        "purchase_date": "2024-08-30",
+        "current_allocation": 18.76,
+        "performance_ytd": 0.2349
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 252651.48,
+        "purchase_date": "2021-09-07",
+        "current_allocation": 17.34,
+        "performance_ytd": 0.1489
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 248495.98,
+        "purchase_date": "2023-07-13",
+        "current_allocation": 17.05,
+        "performance_ytd": -0.0427
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 329152.84,
+        "purchase_date": "2022-10-22",
+        "current_allocation": 22.59,
+        "performance_ytd": -0.1314
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 165338.42,
+        "purchase_date": "2020-05-31",
+        "current_allocation": 11.34,
+        "performance_ytd": 0.0549
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 188359.88,
+        "purchase_date": "2022-03-13",
+        "current_allocation": 12.92,
+        "performance_ytd": 0.2489
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0058",
+    "total_value": 496037.79,
+    "holdings": [
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 61868.25,
+        "purchase_date": "2022-02-06",
+        "current_allocation": 12.47,
+        "performance_ytd": 0.032
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 164395.81,
+        "purchase_date": "2023-08-13",
+        "current_allocation": 33.14,
+        "performance_ytd": 0.1583
+      },
+      {
+        "asset_class": "Cash",
+        "value": 25021.65,
+        "purchase_date": "2021-04-06",
+        "current_allocation": 5.04,
+        "performance_ytd": 0.2017
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 77662.75,
+        "purchase_date": "2022-01-30",
+        "current_allocation": 15.66,
+        "performance_ytd": 0.1563
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 167089.33,
+        "purchase_date": "2022-12-05",
+        "current_allocation": 33.68,
+        "performance_ytd": -0.1499
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0059",
+    "total_value": 448632.49,
+    "holdings": [
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 70588.77,
+        "purchase_date": "2020-06-13",
+        "current_allocation": 15.73,
+        "performance_ytd": 0.078
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 73324.44,
+        "purchase_date": "2020-04-16",
+        "current_allocation": 16.34,
+        "performance_ytd": -0.1396
+      },
+      {
+        "asset_class": "Cash",
+        "value": 95129.83,
+        "purchase_date": "2021-08-25",
+        "current_allocation": 21.2,
+        "performance_ytd": 0.1615
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 88335.29,
+        "purchase_date": "2020-07-03",
+        "current_allocation": 19.69,
+        "performance_ytd": -0.0263
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 11895.84,
+        "purchase_date": "2021-10-09",
+        "current_allocation": 2.65,
+        "performance_ytd": 0.1884
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 14876.34,
+        "purchase_date": "2023-02-04",
+        "current_allocation": 3.32,
+        "performance_ytd": 0.1761
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 94481.98,
+        "purchase_date": "2023-08-08",
+        "current_allocation": 21.06,
+        "performance_ytd": 0.0383
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0060",
+    "total_value": 1721484.23,
+    "holdings": [
+      {
+        "asset_class": "Cash",
+        "value": 346437.6,
+        "purchase_date": "2020-08-19",
+        "current_allocation": 20.12,
+        "performance_ytd": 0.2217
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 114670.68,
+        "purchase_date": "2025-03-16",
+        "current_allocation": 6.66,
+        "performance_ytd": 0.0832
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 366358.74,
+        "purchase_date": "2021-01-07",
+        "current_allocation": 21.28,
+        "performance_ytd": -0.0636
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 329127.25,
+        "purchase_date": "2021-06-23",
+        "current_allocation": 19.12,
+        "performance_ytd": 0.0479
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 194217.02,
+        "purchase_date": "2020-04-04",
+        "current_allocation": 11.28,
+        "performance_ytd": 0.0618
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 311573.88,
+        "purchase_date": "2020-12-14",
+        "current_allocation": 18.1,
+        "performance_ytd": 0.2115
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 59099.06,
+        "purchase_date": "2023-12-14",
+        "current_allocation": 3.43,
+        "performance_ytd": 0.1556
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0061",
+    "total_value": 845579.67,
+    "holdings": [
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 55151.65,
+        "purchase_date": "2022-09-28",
+        "current_allocation": 6.52,
+        "performance_ytd": 0.1859
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 201212.32,
+        "purchase_date": "2022-01-18",
+        "current_allocation": 23.8,
+        "performance_ytd": -0.0282
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 57087.75,
+        "purchase_date": "2021-11-07",
+        "current_allocation": 6.75,
+        "performance_ytd": -0.0502
+      },
+      {
+        "asset_class": "Cash",
+        "value": 224614.15,
+        "purchase_date": "2022-12-26",
+        "current_allocation": 26.56,
+        "performance_ytd": -0.1008
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 68562.76,
+        "purchase_date": "2023-02-10",
+        "current_allocation": 8.11,
+        "performance_ytd": -0.0055
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 106341.22,
+        "purchase_date": "2024-07-04",
+        "current_allocation": 12.58,
+        "performance_ytd": 0.1881
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 132609.82,
+        "purchase_date": "2025-03-07",
+        "current_allocation": 15.68,
+        "performance_ytd": 0.0223
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0062",
+    "total_value": 612629.67,
+    "holdings": [
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 53777.03,
+        "purchase_date": "2025-01-23",
+        "current_allocation": 8.78,
+        "performance_ytd": 0.0296
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 44126.34,
+        "purchase_date": "2020-04-30",
+        "current_allocation": 7.2,
+        "performance_ytd": 0.2073
+      },
+      {
+        "asset_class": "Cash",
+        "value": 3268.03,
+        "purchase_date": "2023-12-21",
+        "current_allocation": 0.53,
+        "performance_ytd": 0.2317
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 35415.21,
+        "purchase_date": "2023-01-25",
+        "current_allocation": 5.78,
+        "performance_ytd": -0.1446
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 46088.63,
+        "purchase_date": "2020-10-20",
+        "current_allocation": 7.52,
+        "performance_ytd": 0.0995
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 71673.92,
+        "purchase_date": "2021-07-26",
+        "current_allocation": 11.7,
+        "performance_ytd": 0.1298
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 90599.89,
+        "purchase_date": "2023-08-30",
+        "current_allocation": 14.79,
+        "performance_ytd": 0.0649
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 93069.41,
+        "purchase_date": "2022-02-17",
+        "current_allocation": 15.19,
+        "performance_ytd": 0.0794
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 174611.21,
+        "purchase_date": "2024-03-30",
+        "current_allocation": 28.5,
+        "performance_ytd": 0.217
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0063",
+    "total_value": 985287.09,
+    "holdings": [
+      {
+        "asset_class": "Cash",
+        "value": 173568.27,
+        "purchase_date": "2023-04-07",
+        "current_allocation": 17.62,
+        "performance_ytd": 0.2445
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 300971.43,
+        "purchase_date": "2024-12-11",
+        "current_allocation": 30.55,
+        "performance_ytd": 0.1663
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 70693.73,
+        "purchase_date": "2024-07-02",
+        "current_allocation": 7.17,
+        "performance_ytd": 0.0783
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 236579.38,
+        "purchase_date": "2023-03-19",
+        "current_allocation": 24.01,
+        "performance_ytd": 0.0862
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 203474.28,
+        "purchase_date": "2023-02-12",
+        "current_allocation": 20.65,
+        "performance_ytd": 0.0822
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0064",
+    "total_value": 879841.32,
+    "holdings": [
+      {
+        "asset_class": "Cash",
+        "value": 259830.07,
+        "purchase_date": "2021-03-20",
+        "current_allocation": 29.53,
+        "performance_ytd": 0.246
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 140611.4,
+        "purchase_date": "2023-11-06",
+        "current_allocation": 15.98,
+        "performance_ytd": -0.1187
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 143211.78,
+        "purchase_date": "2021-01-12",
+        "current_allocation": 16.28,
+        "performance_ytd": 0.2204
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 259176.69,
+        "purchase_date": "2025-02-02",
+        "current_allocation": 29.46,
+        "performance_ytd": 0.1064
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 77011.38,
+        "purchase_date": "2025-02-15",
+        "current_allocation": 8.75,
+        "performance_ytd": -0.0595
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0065",
+    "total_value": 995578.72,
+    "holdings": [
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 105928.14,
+        "purchase_date": "2024-04-23",
+        "current_allocation": 10.64,
+        "performance_ytd": -0.0078
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 70602.0,
+        "purchase_date": "2022-04-04",
+        "current_allocation": 7.09,
+        "performance_ytd": -0.1107
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 256453.42,
+        "purchase_date": "2024-10-19",
+        "current_allocation": 25.76,
+        "performance_ytd": -0.0462
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 257833.13,
+        "purchase_date": "2022-11-12",
+        "current_allocation": 25.9,
+        "performance_ytd": -0.1215
+      },
+      {
+        "asset_class": "Cash",
+        "value": 304762.03,
+        "purchase_date": "2022-04-06",
+        "current_allocation": 30.61,
+        "performance_ytd": 0.1855
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0066",
+    "total_value": 1150971.09,
+    "holdings": [
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 293306.22,
+        "purchase_date": "2024-08-31",
+        "current_allocation": 25.48,
+        "performance_ytd": 0.0516
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 365687.2,
+        "purchase_date": "2021-06-14",
+        "current_allocation": 31.77,
+        "performance_ytd": 0.0917
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 491977.67,
+        "purchase_date": "2022-07-28",
+        "current_allocation": 42.74,
+        "performance_ytd": -0.118
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0067",
+    "total_value": 422294.34,
+    "holdings": [
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 17548.63,
+        "purchase_date": "2024-07-16",
+        "current_allocation": 4.16,
+        "performance_ytd": -0.0627
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 121825.58,
+        "purchase_date": "2021-12-30",
+        "current_allocation": 28.85,
+        "performance_ytd": -0.0229
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 109704.63,
+        "purchase_date": "2023-09-01",
+        "current_allocation": 25.98,
+        "performance_ytd": -0.0002
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 69444.98,
+        "purchase_date": "2024-01-25",
+        "current_allocation": 16.44,
+        "performance_ytd": 0.2203
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 25806.55,
+        "purchase_date": "2022-03-26",
+        "current_allocation": 6.11,
+        "performance_ytd": 0.1876
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 77963.97,
+        "purchase_date": "2023-06-29",
+        "current_allocation": 18.46,
+        "performance_ytd": -0.0339
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0068",
+    "total_value": 625525.19,
+    "holdings": [
+      {
+        "asset_class": "Real Estate",
+        "value": 227551.81,
+        "purchase_date": "2021-07-21",
+        "current_allocation": 36.38,
+        "performance_ytd": 0.0071
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 89469.3,
+        "purchase_date": "2021-11-18",
+        "current_allocation": 14.3,
+        "performance_ytd": 0.1446
+      },
+      {
+        "asset_class": "Cash",
+        "value": 177265.61,
+        "purchase_date": "2024-06-06",
+        "current_allocation": 28.34,
+        "performance_ytd": 0.0948
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 131238.47,
+        "purchase_date": "2025-02-28",
+        "current_allocation": 20.98,
+        "performance_ytd": 0.1336
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0069",
+    "total_value": 1243313.63,
+    "holdings": [
+      {
+        "asset_class": "Commodities",
+        "value": 199914.73,
+        "purchase_date": "2023-09-07",
+        "current_allocation": 16.08,
+        "performance_ytd": 0.1296
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 206715.4,
+        "purchase_date": "2021-12-02",
+        "current_allocation": 16.63,
+        "performance_ytd": -0.0184
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 57892.58,
+        "purchase_date": "2022-06-27",
+        "current_allocation": 4.66,
+        "performance_ytd": 0.0542
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 49779.93,
+        "purchase_date": "2021-09-17",
+        "current_allocation": 4.0,
+        "performance_ytd": -0.0642
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 184396.36,
+        "purchase_date": "2024-01-05",
+        "current_allocation": 14.83,
+        "performance_ytd": -0.041
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 194992.7,
+        "purchase_date": "2021-06-26",
+        "current_allocation": 15.68,
+        "performance_ytd": 0.1571
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 349621.93,
+        "purchase_date": "2025-01-28",
+        "current_allocation": 28.12,
+        "performance_ytd": 0.1763
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0070",
+    "total_value": 1439438.91,
+    "holdings": [
+      {
+        "asset_class": "Government Bonds",
+        "value": 206981.53,
+        "purchase_date": "2025-03-12",
+        "current_allocation": 14.38,
+        "performance_ytd": 0.0537
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 199526.72,
+        "purchase_date": "2022-03-10",
+        "current_allocation": 13.86,
+        "performance_ytd": -0.0193
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 141412.14,
+        "purchase_date": "2021-05-14",
+        "current_allocation": 9.82,
+        "performance_ytd": -0.1145
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 80621.14,
+        "purchase_date": "2022-02-07",
+        "current_allocation": 5.6,
+        "performance_ytd": 0.0695
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 83398.54,
+        "purchase_date": "2022-11-02",
+        "current_allocation": 5.79,
+        "performance_ytd": 0.19
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 110217.95,
+        "purchase_date": "2021-05-25",
+        "current_allocation": 7.66,
+        "performance_ytd": -0.1222
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 199149.83,
+        "purchase_date": "2023-06-08",
+        "current_allocation": 13.84,
+        "performance_ytd": 0.1205
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 113640.08,
+        "purchase_date": "2021-03-27",
+        "current_allocation": 7.89,
+        "performance_ytd": -0.0375
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 75887.45,
+        "purchase_date": "2022-09-29",
+        "current_allocation": 5.27,
+        "performance_ytd": 0.0206
+      },
+      {
+        "asset_class": "Cash",
+        "value": 175469.08,
+        "purchase_date": "2023-05-25",
+        "current_allocation": 12.19,
+        "performance_ytd": 0.1817
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 53134.45,
+        "purchase_date": "2023-07-17",
+        "current_allocation": 3.69,
+        "performance_ytd": -0.082
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0071",
+    "total_value": 129748.08,
+    "holdings": [
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 27872.41,
+        "purchase_date": "2022-06-24",
+        "current_allocation": 21.48,
+        "performance_ytd": -0.1029
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 5416.93,
+        "purchase_date": "2020-12-11",
+        "current_allocation": 4.17,
+        "performance_ytd": -0.0653
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 27979.31,
+        "purchase_date": "2023-09-22",
+        "current_allocation": 21.56,
+        "performance_ytd": -0.0273
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 17559.74,
+        "purchase_date": "2022-08-12",
+        "current_allocation": 13.53,
+        "performance_ytd": -0.0876
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 30030.12,
+        "purchase_date": "2024-06-12",
+        "current_allocation": 23.14,
+        "performance_ytd": 0.223
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 2413.05,
+        "purchase_date": "2021-11-04",
+        "current_allocation": 1.86,
+        "performance_ytd": -0.0597
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 6306.53,
+        "purchase_date": "2022-03-23",
+        "current_allocation": 4.86,
+        "performance_ytd": 0.1494
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 12169.99,
+        "purchase_date": "2022-02-02",
+        "current_allocation": 9.38,
+        "performance_ytd": 0.225
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0072",
+    "total_value": 1570127.17,
+    "holdings": [
+      {
+        "asset_class": "Emerging Markets",
+        "value": 49262.2,
+        "purchase_date": "2022-08-15",
+        "current_allocation": 3.14,
+        "performance_ytd": 0.041
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 206913.76,
+        "purchase_date": "2023-08-05",
+        "current_allocation": 13.18,
+        "performance_ytd": 0.0329
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 49233.11,
+        "purchase_date": "2022-12-05",
+        "current_allocation": 3.14,
+        "performance_ytd": -0.0694
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 231792.27,
+        "purchase_date": "2021-04-21",
+        "current_allocation": 14.76,
+        "performance_ytd": -0.0855
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 276750.79,
+        "purchase_date": "2022-02-10",
+        "current_allocation": 17.63,
+        "performance_ytd": 0.005
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 85640.32,
+        "purchase_date": "2020-06-22",
+        "current_allocation": 5.45,
+        "performance_ytd": 0.1997
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 262930.99,
+        "purchase_date": "2021-07-23",
+        "current_allocation": 16.75,
+        "performance_ytd": -0.1487
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 213042.19,
+        "purchase_date": "2020-06-04",
+        "current_allocation": 13.57,
+        "performance_ytd": 0.1969
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 168108.45,
+        "purchase_date": "2020-11-03",
+        "current_allocation": 10.71,
+        "performance_ytd": 0.0536
+      },
+      {
+        "asset_class": "Cash",
+        "value": 26453.09,
+        "purchase_date": "2025-01-15",
+        "current_allocation": 1.68,
+        "performance_ytd": 0.1775
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0073",
+    "total_value": 440473.79,
+    "holdings": [
+      {
+        "asset_class": "Government Bonds",
+        "value": 15058.75,
+        "purchase_date": "2024-05-09",
+        "current_allocation": 3.42,
+        "performance_ytd": 0.0479
+      },
+      {
+        "asset_class": "Cash",
+        "value": 9697.57,
+        "purchase_date": "2024-06-06",
+        "current_allocation": 2.2,
+        "performance_ytd": 0.1153
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 59949.62,
+        "purchase_date": "2020-04-08",
+        "current_allocation": 13.61,
+        "performance_ytd": 0.1666
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 36251.62,
+        "purchase_date": "2024-12-13",
+        "current_allocation": 8.23,
+        "performance_ytd": -0.1121
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 34435.33,
+        "purchase_date": "2024-07-06",
+        "current_allocation": 7.82,
+        "performance_ytd": -0.0859
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 49168.79,
+        "purchase_date": "2023-05-30",
+        "current_allocation": 11.16,
+        "performance_ytd": 0.0226
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 122457.22,
+        "purchase_date": "2022-08-18",
+        "current_allocation": 27.8,
+        "performance_ytd": -0.1023
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 113454.89,
+        "purchase_date": "2024-01-13",
+        "current_allocation": 25.76,
+        "performance_ytd": -0.0283
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0074",
+    "total_value": 1138521.17,
+    "holdings": [
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 140246.01,
+        "purchase_date": "2022-02-02",
+        "current_allocation": 12.32,
+        "performance_ytd": 0.0155
+      },
+      {
+        "asset_class": "Cash",
+        "value": 221989.06,
+        "purchase_date": "2024-09-15",
+        "current_allocation": 19.5,
+        "performance_ytd": -0.0504
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 257980.71,
+        "purchase_date": "2021-12-14",
+        "current_allocation": 22.66,
+        "performance_ytd": 0.0568
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 34011.39,
+        "purchase_date": "2020-08-01",
+        "current_allocation": 2.99,
+        "performance_ytd": -0.1064
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 47016.92,
+        "purchase_date": "2022-11-23",
+        "current_allocation": 4.13,
+        "performance_ytd": 0.1628
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 85824.91,
+        "purchase_date": "2020-11-28",
+        "current_allocation": 7.54,
+        "performance_ytd": 0.124
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 239760.4,
+        "purchase_date": "2022-07-02",
+        "current_allocation": 21.06,
+        "performance_ytd": 0.0757
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 77605.27,
+        "purchase_date": "2022-07-09",
+        "current_allocation": 6.82,
+        "performance_ytd": 0.0571
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 34086.5,
+        "purchase_date": "2023-08-17",
+        "current_allocation": 2.99,
+        "performance_ytd": 0.2481
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0075",
+    "total_value": 1955392.34,
+    "holdings": [
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 982887.27,
+        "purchase_date": "2021-02-05",
+        "current_allocation": 50.27,
+        "performance_ytd": 0.1347
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 513793.15,
+        "purchase_date": "2022-12-20",
+        "current_allocation": 26.28,
+        "performance_ytd": -0.0148
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 362084.71,
+        "purchase_date": "2022-09-10",
+        "current_allocation": 18.52,
+        "performance_ytd": -0.0035
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 96627.21,
+        "purchase_date": "2022-02-04",
+        "current_allocation": 4.94,
+        "performance_ytd": 0.2015
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0076",
+    "total_value": 1490540.25,
+    "holdings": [
+      {
+        "asset_class": "Cash",
+        "value": 65982.7,
+        "purchase_date": "2020-08-06",
+        "current_allocation": 4.43,
+        "performance_ytd": 0.2244
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 553214.6,
+        "purchase_date": "2022-09-30",
+        "current_allocation": 37.12,
+        "performance_ytd": -0.1091
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 826633.59,
+        "purchase_date": "2023-08-11",
+        "current_allocation": 55.46,
+        "performance_ytd": 0.0017
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 44709.36,
+        "purchase_date": "2023-08-20",
+        "current_allocation": 3.0,
+        "performance_ytd": 0.0719
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0077",
+    "total_value": 415944.45,
+    "holdings": [
+      {
+        "asset_class": "International Developed",
+        "value": 58466.59,
+        "purchase_date": "2020-12-16",
+        "current_allocation": 14.06,
+        "performance_ytd": 0.0614
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 63522.42,
+        "purchase_date": "2022-04-14",
+        "current_allocation": 15.27,
+        "performance_ytd": 0.239
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 67338.95,
+        "purchase_date": "2021-08-31",
+        "current_allocation": 16.19,
+        "performance_ytd": 0.2182
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 48124.94,
+        "purchase_date": "2024-06-02",
+        "current_allocation": 11.57,
+        "performance_ytd": 0.0155
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 20324.15,
+        "purchase_date": "2021-04-17",
+        "current_allocation": 4.89,
+        "performance_ytd": -0.0926
+      },
+      {
+        "asset_class": "Cash",
+        "value": 14579.58,
+        "purchase_date": "2021-09-15",
+        "current_allocation": 3.51,
+        "performance_ytd": 0.0372
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 89697.67,
+        "purchase_date": "2020-07-01",
+        "current_allocation": 21.56,
+        "performance_ytd": -0.1168
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 53890.15,
+        "purchase_date": "2021-03-23",
+        "current_allocation": 12.96,
+        "performance_ytd": 0.2213
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0078",
+    "total_value": 218821.74,
+    "holdings": [
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 8002.77,
+        "purchase_date": "2021-11-13",
+        "current_allocation": 3.66,
+        "performance_ytd": 0.049
+      },
+      {
+        "asset_class": "Cash",
+        "value": 55190.6,
+        "purchase_date": "2020-11-16",
+        "current_allocation": 25.22,
+        "performance_ytd": 0.1421
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 6688.18,
+        "purchase_date": "2023-08-15",
+        "current_allocation": 3.06,
+        "performance_ytd": 0.1605
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 76046.0,
+        "purchase_date": "2022-08-08",
+        "current_allocation": 34.75,
+        "performance_ytd": 0.1988
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 38706.1,
+        "purchase_date": "2023-06-27",
+        "current_allocation": 17.69,
+        "performance_ytd": 0.1454
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 34188.09,
+        "purchase_date": "2022-09-06",
+        "current_allocation": 15.62,
+        "performance_ytd": -0.0
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0079",
+    "total_value": 1713967.69,
+    "holdings": [
+      {
+        "asset_class": "Commodities",
+        "value": 433044.22,
+        "purchase_date": "2024-09-02",
+        "current_allocation": 25.27,
+        "performance_ytd": -0.0093
+      },
+      {
+        "asset_class": "Cash",
+        "value": 527620.65,
+        "purchase_date": "2022-01-18",
+        "current_allocation": 30.78,
+        "performance_ytd": -0.058
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 427457.45,
+        "purchase_date": "2022-05-18",
+        "current_allocation": 24.94,
+        "performance_ytd": 0.2363
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 325845.37,
+        "purchase_date": "2024-06-23",
+        "current_allocation": 19.01,
+        "performance_ytd": 0.1302
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0080",
+    "total_value": 636644.34,
+    "holdings": [
+      {
+        "asset_class": "Government Bonds",
+        "value": 79540.37,
+        "purchase_date": "2020-06-28",
+        "current_allocation": 12.49,
+        "performance_ytd": -0.035
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 128700.78,
+        "purchase_date": "2020-06-21",
+        "current_allocation": 20.22,
+        "performance_ytd": -0.0388
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 100196.49,
+        "purchase_date": "2020-08-29",
+        "current_allocation": 15.74,
+        "performance_ytd": -0.1126
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 110584.4,
+        "purchase_date": "2024-05-19",
+        "current_allocation": 17.37,
+        "performance_ytd": -0.0947
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 152301.55,
+        "purchase_date": "2020-05-06",
+        "current_allocation": 23.92,
+        "performance_ytd": -0.1471
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 65320.75,
+        "purchase_date": "2020-12-13",
+        "current_allocation": 10.26,
+        "performance_ytd": -0.089
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0081",
+    "total_value": 181415.72,
+    "holdings": [
+      {
+        "asset_class": "International Developed",
+        "value": 1935.93,
+        "purchase_date": "2024-10-05",
+        "current_allocation": 1.07,
+        "performance_ytd": 0.1273
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 575.9,
+        "purchase_date": "2022-05-11",
+        "current_allocation": 0.32,
+        "performance_ytd": -0.1385
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 38130.97,
+        "purchase_date": "2024-12-25",
+        "current_allocation": 21.02,
+        "performance_ytd": -0.0104
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 5558.29,
+        "purchase_date": "2025-03-01",
+        "current_allocation": 3.06,
+        "performance_ytd": 0.219
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 34766.92,
+        "purchase_date": "2023-09-02",
+        "current_allocation": 19.16,
+        "performance_ytd": 0.1079
+      },
+      {
+        "asset_class": "Cash",
+        "value": 23208.28,
+        "purchase_date": "2024-08-03",
+        "current_allocation": 12.79,
+        "performance_ytd": -0.0373
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 8543.56,
+        "purchase_date": "2023-04-14",
+        "current_allocation": 4.71,
+        "performance_ytd": 0.0886
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 30599.54,
+        "purchase_date": "2022-02-14",
+        "current_allocation": 16.87,
+        "performance_ytd": -0.1405
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 38096.33,
+        "purchase_date": "2024-05-12",
+        "current_allocation": 21.0,
+        "performance_ytd": 0.0366
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0082",
+    "total_value": 1228645.97,
+    "holdings": [
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 930161.7,
+        "purchase_date": "2020-11-20",
+        "current_allocation": 75.71,
+        "performance_ytd": 0.174
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 266951.93,
+        "purchase_date": "2021-06-10",
+        "current_allocation": 21.73,
+        "performance_ytd": -0.0247
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 28438.17,
+        "purchase_date": "2025-02-27",
+        "current_allocation": 2.31,
+        "performance_ytd": -0.0587
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 3094.17,
+        "purchase_date": "2022-08-13",
+        "current_allocation": 0.25,
+        "performance_ytd": 0.1359
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0083",
+    "total_value": 1996445.83,
+    "holdings": [
+      {
+        "asset_class": "Emerging Markets",
+        "value": 575544.25,
+        "purchase_date": "2022-08-07",
+        "current_allocation": 28.83,
+        "performance_ytd": 0.0831
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 945045.12,
+        "purchase_date": "2020-09-06",
+        "current_allocation": 47.34,
+        "performance_ytd": 0.2061
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 4005.85,
+        "purchase_date": "2024-11-15",
+        "current_allocation": 0.2,
+        "performance_ytd": 0.2271
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 471850.61,
+        "purchase_date": "2021-08-09",
+        "current_allocation": 23.63,
+        "performance_ytd": 0.0903
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0084",
+    "total_value": 799759.61,
+    "holdings": [
+      {
+        "asset_class": "Government Bonds",
+        "value": 53675.68,
+        "purchase_date": "2021-09-28",
+        "current_allocation": 6.71,
+        "performance_ytd": 0.0657
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 168359.62,
+        "purchase_date": "2022-11-30",
+        "current_allocation": 21.05,
+        "performance_ytd": 0.0381
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 92502.37,
+        "purchase_date": "2024-10-01",
+        "current_allocation": 11.57,
+        "performance_ytd": 0.2193
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 175099.78,
+        "purchase_date": "2023-05-06",
+        "current_allocation": 21.89,
+        "performance_ytd": -0.1166
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 28958.11,
+        "purchase_date": "2024-03-25",
+        "current_allocation": 3.62,
+        "performance_ytd": 0.1899
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 124418.72,
+        "purchase_date": "2024-11-07",
+        "current_allocation": 15.56,
+        "performance_ytd": 0.1348
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 14403.87,
+        "purchase_date": "2020-08-06",
+        "current_allocation": 1.8,
+        "performance_ytd": 0.1562
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 142341.46,
+        "purchase_date": "2022-05-13",
+        "current_allocation": 17.8,
+        "performance_ytd": 0.1909
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0085",
+    "total_value": 995368.59,
+    "holdings": [
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 145986.06,
+        "purchase_date": "2020-09-15",
+        "current_allocation": 14.67,
+        "performance_ytd": 0.0133
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 16879.38,
+        "purchase_date": "2023-01-25",
+        "current_allocation": 1.7,
+        "performance_ytd": 0.0926
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 148620.08,
+        "purchase_date": "2020-07-23",
+        "current_allocation": 14.93,
+        "performance_ytd": 0.0385
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 206216.78,
+        "purchase_date": "2020-07-11",
+        "current_allocation": 20.72,
+        "performance_ytd": -0.0574
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 233422.82,
+        "purchase_date": "2022-10-06",
+        "current_allocation": 23.45,
+        "performance_ytd": 0.0791
+      },
+      {
+        "asset_class": "Cash",
+        "value": 244243.47,
+        "purchase_date": "2021-10-28",
+        "current_allocation": 24.54,
+        "performance_ytd": 0.2308
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0086",
+    "total_value": 956671.51,
+    "holdings": [
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 294091.77,
+        "purchase_date": "2021-09-05",
+        "current_allocation": 30.74,
+        "performance_ytd": -0.0932
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 311523.57,
+        "purchase_date": "2020-11-07",
+        "current_allocation": 32.56,
+        "performance_ytd": -0.0886
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 22921.45,
+        "purchase_date": "2022-06-30",
+        "current_allocation": 2.4,
+        "performance_ytd": -0.086
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 111797.85,
+        "purchase_date": "2021-03-26",
+        "current_allocation": 11.69,
+        "performance_ytd": -0.0056
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 216336.87,
+        "purchase_date": "2020-07-16",
+        "current_allocation": 22.61,
+        "performance_ytd": 0.2279
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0087",
+    "total_value": 700200.88,
+    "holdings": [
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 133605.45,
+        "purchase_date": "2024-08-25",
+        "current_allocation": 19.08,
+        "performance_ytd": 0.1837
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 48672.95,
+        "purchase_date": "2024-02-16",
+        "current_allocation": 6.95,
+        "performance_ytd": 0.2395
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 21449.97,
+        "purchase_date": "2020-05-07",
+        "current_allocation": 3.06,
+        "performance_ytd": 0.2242
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 137481.05,
+        "purchase_date": "2020-06-21",
+        "current_allocation": 19.63,
+        "performance_ytd": 0.0581
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 102225.25,
+        "purchase_date": "2020-12-18",
+        "current_allocation": 14.6,
+        "performance_ytd": 0.2451
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 53265.48,
+        "purchase_date": "2024-02-07",
+        "current_allocation": 7.61,
+        "performance_ytd": 0.06
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 95082.71,
+        "purchase_date": "2024-11-26",
+        "current_allocation": 13.58,
+        "performance_ytd": -0.091
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 108418.02,
+        "purchase_date": "2023-04-17",
+        "current_allocation": 15.48,
+        "performance_ytd": -0.0715
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0088",
+    "total_value": 1742265.73,
+    "holdings": [
+      {
+        "asset_class": "Emerging Markets",
+        "value": 622688.51,
+        "purchase_date": "2024-12-22",
+        "current_allocation": 35.74,
+        "performance_ytd": 0.1341
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 862117.14,
+        "purchase_date": "2023-11-14",
+        "current_allocation": 49.48,
+        "performance_ytd": 0.2014
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 257460.08,
+        "purchase_date": "2024-10-05",
+        "current_allocation": 14.78,
+        "performance_ytd": 0.0441
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0089",
+    "total_value": 995722.62,
+    "holdings": [
+      {
+        "asset_class": "International Developed",
+        "value": 272569.7,
+        "purchase_date": "2025-03-09",
+        "current_allocation": 27.37,
+        "performance_ytd": 0.0436
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 12717.71,
+        "purchase_date": "2023-08-09",
+        "current_allocation": 1.28,
+        "performance_ytd": 0.1131
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 345587.03,
+        "purchase_date": "2022-12-11",
+        "current_allocation": 34.71,
+        "performance_ytd": 0.1879
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 226439.3,
+        "purchase_date": "2022-03-03",
+        "current_allocation": 22.74,
+        "performance_ytd": -0.0783
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 105657.1,
+        "purchase_date": "2021-01-04",
+        "current_allocation": 10.61,
+        "performance_ytd": -0.0978
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 32751.78,
+        "purchase_date": "2022-04-05",
+        "current_allocation": 3.29,
+        "performance_ytd": 0.0306
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0090",
+    "total_value": 1320198.34,
+    "holdings": [
+      {
+        "asset_class": "Real Estate",
+        "value": 261655.74,
+        "purchase_date": "2024-08-15",
+        "current_allocation": 19.82,
+        "performance_ytd": 0.0594
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 169850.65,
+        "purchase_date": "2023-02-08",
+        "current_allocation": 12.87,
+        "performance_ytd": 0.2118
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 112005.42,
+        "purchase_date": "2020-06-27",
+        "current_allocation": 8.48,
+        "performance_ytd": -0.1427
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 430695.68,
+        "purchase_date": "2024-10-27",
+        "current_allocation": 32.62,
+        "performance_ytd": -0.0837
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 345990.85,
+        "purchase_date": "2020-07-04",
+        "current_allocation": 26.21,
+        "performance_ytd": -0.0096
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0091",
+    "total_value": 1816661.7,
+    "holdings": [
+      {
+        "asset_class": "Emerging Markets",
+        "value": 918402.03,
+        "purchase_date": "2023-08-16",
+        "current_allocation": 50.55,
+        "performance_ytd": 0.0636
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 269518.31,
+        "purchase_date": "2021-08-27",
+        "current_allocation": 14.84,
+        "performance_ytd": 0.0018
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 172191.41,
+        "purchase_date": "2021-01-08",
+        "current_allocation": 9.48,
+        "performance_ytd": 0.0494
+      },
+      {
+        "asset_class": "Cash",
+        "value": 456549.95,
+        "purchase_date": "2021-04-02",
+        "current_allocation": 25.13,
+        "performance_ytd": 0.0034
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0092",
+    "total_value": 1094180.11,
+    "holdings": [
+      {
+        "asset_class": "International Developed",
+        "value": 105225.94,
+        "purchase_date": "2022-01-25",
+        "current_allocation": 9.62,
+        "performance_ytd": 0.0605
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 147841.06,
+        "purchase_date": "2022-05-11",
+        "current_allocation": 13.51,
+        "performance_ytd": -0.0992
+      },
+      {
+        "asset_class": "Cash",
+        "value": 181122.97,
+        "purchase_date": "2021-11-29",
+        "current_allocation": 16.55,
+        "performance_ytd": -0.0144
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 97276.28,
+        "purchase_date": "2020-09-18",
+        "current_allocation": 8.89,
+        "performance_ytd": 0.1621
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 94576.05,
+        "purchase_date": "2020-04-24",
+        "current_allocation": 8.64,
+        "performance_ytd": 0.1693
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 70969.13,
+        "purchase_date": "2023-06-05",
+        "current_allocation": 6.49,
+        "performance_ytd": 0.0608
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 73850.22,
+        "purchase_date": "2022-01-26",
+        "current_allocation": 6.75,
+        "performance_ytd": 0.0841
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 162786.92,
+        "purchase_date": "2021-08-07",
+        "current_allocation": 14.88,
+        "performance_ytd": 0.1623
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 160531.54,
+        "purchase_date": "2021-06-07",
+        "current_allocation": 14.67,
+        "performance_ytd": 0.044
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0093",
+    "total_value": 1584602.12,
+    "holdings": [
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 498172.22,
+        "purchase_date": "2020-10-23",
+        "current_allocation": 31.44,
+        "performance_ytd": -0.0135
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 206866.53,
+        "purchase_date": "2024-11-14",
+        "current_allocation": 13.05,
+        "performance_ytd": 0.1548
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 116939.03,
+        "purchase_date": "2020-06-04",
+        "current_allocation": 7.38,
+        "performance_ytd": 0.0057
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 209700.13,
+        "purchase_date": "2021-05-02",
+        "current_allocation": 13.23,
+        "performance_ytd": -0.0855
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 159411.86,
+        "purchase_date": "2023-08-04",
+        "current_allocation": 10.06,
+        "performance_ytd": 0.2121
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 153974.4,
+        "purchase_date": "2024-02-03",
+        "current_allocation": 9.72,
+        "performance_ytd": -0.1128
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 187453.46,
+        "purchase_date": "2024-09-29",
+        "current_allocation": 11.83,
+        "performance_ytd": -0.0709
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 52084.49,
+        "purchase_date": "2022-07-18",
+        "current_allocation": 3.29,
+        "performance_ytd": 0.0882
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0094",
+    "total_value": 810514.18,
+    "holdings": [
+      {
+        "asset_class": "Real Estate",
+        "value": 36736.29,
+        "purchase_date": "2020-04-07",
+        "current_allocation": 4.53,
+        "performance_ytd": -0.0645
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 50722.5,
+        "purchase_date": "2020-06-17",
+        "current_allocation": 6.26,
+        "performance_ytd": 0.052
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 131490.81,
+        "purchase_date": "2022-04-13",
+        "current_allocation": 16.22,
+        "performance_ytd": 0.0365
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 165244.38,
+        "purchase_date": "2022-12-15",
+        "current_allocation": 20.39,
+        "performance_ytd": 0.0414
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 101532.75,
+        "purchase_date": "2023-02-08",
+        "current_allocation": 12.53,
+        "performance_ytd": -0.008
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 31949.48,
+        "purchase_date": "2022-06-13",
+        "current_allocation": 3.94,
+        "performance_ytd": 0.0829
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 170257.55,
+        "purchase_date": "2023-02-03",
+        "current_allocation": 21.01,
+        "performance_ytd": 0.2406
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 6506.84,
+        "purchase_date": "2022-12-02",
+        "current_allocation": 0.8,
+        "performance_ytd": 0.1808
+      },
+      {
+        "asset_class": "Cash",
+        "value": 72753.55,
+        "purchase_date": "2024-10-03",
+        "current_allocation": 8.98,
+        "performance_ytd": 0.0156
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 43320.03,
+        "purchase_date": "2021-03-23",
+        "current_allocation": 5.34,
+        "performance_ytd": 0.2025
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0095",
+    "total_value": 973410.23,
+    "holdings": [
+      {
+        "asset_class": "Real Estate",
+        "value": 196712.53,
+        "purchase_date": "2022-12-27",
+        "current_allocation": 20.21,
+        "performance_ytd": -0.1329
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 224267.7,
+        "purchase_date": "2023-04-25",
+        "current_allocation": 23.04,
+        "performance_ytd": 0.1741
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 91498.78,
+        "purchase_date": "2024-01-15",
+        "current_allocation": 9.4,
+        "performance_ytd": 0.2356
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 246243.51,
+        "purchase_date": "2022-10-28",
+        "current_allocation": 25.3,
+        "performance_ytd": -0.0011
+      },
+      {
+        "asset_class": "Cash",
+        "value": 72098.51,
+        "purchase_date": "2025-01-04",
+        "current_allocation": 7.41,
+        "performance_ytd": 0.1129
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 20403.01,
+        "purchase_date": "2020-10-01",
+        "current_allocation": 2.1,
+        "performance_ytd": 0.0376
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 122186.19,
+        "purchase_date": "2022-02-19",
+        "current_allocation": 12.55,
+        "performance_ytd": -0.0748
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0096",
+    "total_value": 1072897.02,
+    "holdings": [
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 85319.79,
+        "purchase_date": "2020-08-08",
+        "current_allocation": 7.95,
+        "performance_ytd": 0.2219
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 5105.05,
+        "purchase_date": "2025-03-21",
+        "current_allocation": 0.48,
+        "performance_ytd": -0.1358
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 443300.86,
+        "purchase_date": "2021-12-13",
+        "current_allocation": 41.32,
+        "performance_ytd": -0.0332
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 37601.35,
+        "purchase_date": "2021-03-07",
+        "current_allocation": 3.5,
+        "performance_ytd": 0.1642
+      },
+      {
+        "asset_class": "International Developed",
+        "value": 501569.97,
+        "purchase_date": "2022-12-31",
+        "current_allocation": 46.75,
+        "performance_ytd": 0.1243
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0097",
+    "total_value": 1593933.49,
+    "holdings": [
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 286381.6,
+        "purchase_date": "2022-03-12",
+        "current_allocation": 17.97,
+        "performance_ytd": 0.0425
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 347513.22,
+        "purchase_date": "2024-07-25",
+        "current_allocation": 21.8,
+        "performance_ytd": 0.1125
+      },
+      {
+        "asset_class": "Emerging Markets",
+        "value": 287139.52,
+        "purchase_date": "2025-02-02",
+        "current_allocation": 18.01,
+        "performance_ytd": 0.1613
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 257690.42,
+        "purchase_date": "2024-07-09",
+        "current_allocation": 16.17,
+        "performance_ytd": 0.0584
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 349615.98,
+        "purchase_date": "2020-05-05",
+        "current_allocation": 21.93,
+        "performance_ytd": 0.233
+      },
+      {
+        "asset_class": "Cash",
+        "value": 65592.75,
+        "purchase_date": "2021-05-16",
+        "current_allocation": 4.12,
+        "performance_ytd": 0.1062
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0098",
+    "total_value": 1278109.46,
+    "holdings": [
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 569525.72,
+        "purchase_date": "2023-10-22",
+        "current_allocation": 44.56,
+        "performance_ytd": -0.1029
+      },
+      {
+        "asset_class": "Cash",
+        "value": 45764.65,
+        "purchase_date": "2020-06-11",
+        "current_allocation": 3.58,
+        "performance_ytd": 0.236
+      },
+      {
+        "asset_class": "Real Estate",
+        "value": 294458.54,
+        "purchase_date": "2024-12-30",
+        "current_allocation": 23.04,
+        "performance_ytd": 0.2115
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 50093.5,
+        "purchase_date": "2023-09-10",
+        "current_allocation": 3.92,
+        "performance_ytd": 0.0342
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 318267.05,
+        "purchase_date": "2025-03-25",
+        "current_allocation": 24.9,
+        "performance_ytd": 0.2428
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0099",
+    "total_value": 348884.24,
+    "holdings": [
+      {
+        "asset_class": "International Developed",
+        "value": 50777.63,
+        "purchase_date": "2020-10-06",
+        "current_allocation": 14.55,
+        "performance_ytd": 0.1268
+      },
+      {
+        "asset_class": "Mid Cap Stocks",
+        "value": 21755.22,
+        "purchase_date": "2021-07-02",
+        "current_allocation": 6.24,
+        "performance_ytd": -0.1234
+      },
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 49536.03,
+        "purchase_date": "2024-01-15",
+        "current_allocation": 14.2,
+        "performance_ytd": 0.1896
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 65918.14,
+        "purchase_date": "2023-12-13",
+        "current_allocation": 18.89,
+        "performance_ytd": -0.1294
+      },
+      {
+        "asset_class": "Corporate Bonds",
+        "value": 42726.23,
+        "purchase_date": "2023-11-17",
+        "current_allocation": 12.25,
+        "performance_ytd": 0.1569
+      },
+      {
+        "asset_class": "Government Bonds",
+        "value": 50616.97,
+        "purchase_date": "2023-06-21",
+        "current_allocation": 14.51,
+        "performance_ytd": 0.1429
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 59277.47,
+        "purchase_date": "2021-08-11",
+        "current_allocation": 16.99,
+        "performance_ytd": -0.0289
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 8276.55,
+        "purchase_date": "2025-03-02",
+        "current_allocation": 2.37,
+        "performance_ytd": -0.0833
+      }
+    ]
+  },
+  {
+    "client_id": "CLIENT0100",
+    "total_value": 1273012.1,
+    "holdings": [
+      {
+        "asset_class": "Large Cap Stocks",
+        "value": 383654.51,
+        "purchase_date": "2023-11-07",
+        "current_allocation": 30.14,
+        "performance_ytd": 0.1264
+      },
+      {
+        "asset_class": "High Yield Bonds",
+        "value": 359584.92,
+        "purchase_date": "2020-11-08",
+        "current_allocation": 28.25,
+        "performance_ytd": -0.1112
+      },
+      {
+        "asset_class": "Small Cap Stocks",
+        "value": 286179.74,
+        "purchase_date": "2020-08-09",
+        "current_allocation": 22.48,
+        "performance_ytd": -0.1051
+      },
+      {
+        "asset_class": "Commodities",
+        "value": 243592.93,
+        "purchase_date": "2022-11-09",
+        "current_allocation": 19.14,
+        "performance_ytd": -0.1463
+      }
+    ]
+  }
+]

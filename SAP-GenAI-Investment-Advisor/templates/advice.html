@@ -1,0 +1,219 @@
+<!-- templates/advice.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Investment Advice - {{ client.name }}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">SAP GenAI Investment Advisor</a>
+        </div>
+    </nav>
+
+    <div class="page-header">
+        <div class="container">
+            <h1>Investment Advice for {{ client.name }}</h1>
+            <p class="text-muted">Personalized recommendations based on comprehensive analysis of market conditions and client profile</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-body">
+                        <form id="clientForm" class="d-flex gap-3">
+                            <select class="form-control" id="clientSelect">
+                                {% for c in clients %}
+                                <option value="{{ c.client_id }}" {% if c.client_id == client.client_id %}selected{% endif %}>
+                                    {{ c.name }} ({{ c.risk_tolerance }})
+                                </option>
+                                {% endfor %}
+                            </select>
+                            <button type="submit" class="btn btn-primary">Update</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card bg-light">
+                    <div class="card-body">
+                        <h5>Client Profile</h5>
+                        <p class="mb-1"><strong>Risk Tolerance:</strong> {{ client.risk_tolerance }}</p>
+                        <p class="mb-1"><strong>Financial Goal:</strong> {{ client.financial_goal }}</p>
+                        <p class="mb-1"><strong>Time Horizon:</strong> {{ client.time_horizon }} years</p>
+                        <p class="mb-0"><strong>Investment Experience:</strong> {{ client.investment_experience }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="loading" class="text-center my-5">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+            <p class="mt-2">Generating personalized investment advice...</p>
+        </div>
+
+        <div id="results" class="d-none">
+            <!-- Results will be displayed here -->
+        </div>
+    </div>
+
+    <footer class="mt-5 mb-4 text-center text-muted">
+        <div class="container">
+            <p>SAP GenAI Investment Advisor - Powered by SAP Business Technology Platform</p>
+            <p class="small">This is a demonstration application and does not provide actual financial advice.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Get advice for initial client
+            getAdvice('{{ client.client_id }}');
+            
+            // Handle client selection form
+            document.getElementById('clientForm').addEventListener('submit', function(e) {
+                e.preventDefault();
+                const clientId = document.getElementById('clientSelect').value;
+                window.location.href = `/advice/${clientId}`;
+            });
+        });
+        
+        function getAdvice(clientId) {
+            document.getElementById('loading').classList.remove('d-none');
+            document.getElementById('results').classList.add('d-none');
+            
+            fetch(`/api/advice/${clientId}`)
+                .then(response => response.json())
+                .then(data => {
+                    displayResults(data);
+                    document.getElementById('loading').classList.add('d-none');
+                    document.getElementById('results').classList.remove('d-none');
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    document.getElementById('loading').classList.add('d-none');
+                    alert('Error loading advice. Please try again.');
+                });
+        }
+        
+        function displayResults(data) {
+            let html = `
+                <div class="row mb-4">
+                    <div class="col-md-7">
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title mb-0">Portfolio Overview</h3>
+                            </div>
+                            <div class="card-body">
+                                <h4 class="mb-3">Total Value: $${data.total_portfolio_value.toLocaleString()}</h4>
+                                <h5>Our Advice</h5>
+                                <ul class="mb-0">
+                                    ${data.overall_advice.map(advice => `<li>${advice}</li>`).join('')}
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-5">
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title mb-0">Investment Factors</h3>
+                            </div>
+                            <div class="card-body p-0">
+                                <div class="investment-factor">
+                                    <span class="factor-name">Market Trend Factor</span>
+                                    <span class="factor-value ${getFactorClass(data.investment_factors.market_trend_factor)}">
+                                        ${data.investment_factors.market_trend_factor}
+                                    </span>
+                                </div>
+                                <div class="investment-factor">
+                                    <span class="factor-name">Risk Tolerance Factor</span>
+                                    <span class="factor-value ${getFactorClass(data.investment_factors.risk_tolerance_factor)}">
+                                        ${data.investment_factors.risk_tolerance_factor}
+                                    </span>
+                                </div>
+                                <div class="investment-factor">
+                                    <span class="factor-name">Portfolio Diversification Factor</span>
+                                    <span class="factor-value ${getFactorClass(data.investment_factors.portfolio_diversification_factor)}">
+                                        ${data.investment_factors.portfolio_diversification_factor}
+                                    </span>
+                                </div>
+                                <div class="investment-factor">
+                                    <span class="factor-name">Age-Based Allocation Factor</span>
+                                    <span class="factor-value ${getFactorClass(data.investment_factors.age_based_allocation_factor)}">
+                                        ${data.investment_factors.age_based_allocation_factor}
+                                    </span>
+                                </div>
+                                <div class="investment-factor">
+                                    <span class="factor-name">Financial Goal Alignment</span>
+                                    <span class="factor-value ${getFactorClass(data.investment_factors.goal_alignment_factor)}">
+                                        ${data.investment_factors.goal_alignment_factor}
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <h3 class="mb-3">Asset Recommendations</h3>
+                <div class="row">
+            `;
+            
+            // Add each recommendation
+            data.recommendations.forEach(rec => {
+                html += `
+                    <div class="col-lg-6 mb-4">
+                        <div class="card recommendation-card">
+                            <div class="card-body">
+                                <span class="confidence-badge">${rec.confidence_score.toFixed(1)}% confidence</span>
+                                <h4 class="mb-2">${rec.asset_class}</h4>
+                                <p class="mb-1">Current Value: $${rec.current_value.toLocaleString()}</p>
+                                <p class="mb-3">Current Allocation: ${rec.current_allocation}%</p>
+                                
+                                <div class="d-flex align-items-center mb-3">
+                                    <span class="action-badge action-${rec.action.toLowerCase().replace(' ', '-')}">
+                                        ${rec.action}
+                                    </span>
+                                    
+                                    ${rec.allocation_change !== 0 ? 
+                                        `<span class="ms-2">
+                                            ${rec.allocation_change > 0 ? '+' : ''}${rec.allocation_change}% 
+                                            (to ${rec.target_allocation}%)
+                                        </span>` : 
+                                        ''}
+                                </div>
+                                
+                                <div class="explanation-box">
+                                    <p class="mb-0">${rec.explanation}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            });
+            
+            html += `
+                </div>
+                <div class="text-center mt-3 mb-5">
+                    <p class="text-muted small">Generated with ${data.model_used} on ${new Date(data.generated_at).toLocaleString()}</p>
+                </div>
+            `;
+            
+            document.getElementById('results').innerHTML = html;
+        }
+        
+        function getFactorClass(value) {
+            if (value > 1.05) return 'factor-positive';
+            if (value < 0.95) return 'factor-negative';
+            return 'factor-neutral';
+        }
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+

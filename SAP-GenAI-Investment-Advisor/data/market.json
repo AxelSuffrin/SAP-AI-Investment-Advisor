@@ -1,0 +1,87 @@
+{
+  "trends": [
+    {
+      "sector": "Technology",
+      "current_growth": 0.0298,
+      "forecast_growth": 0.0193,
+      "volatility": 0.2126,
+      "analyst_sentiment": "Bullish"
+    },
+    {
+      "sector": "Healthcare",
+      "current_growth": 0.2084,
+      "forecast_growth": 0.1045,
+      "volatility": 0.2544,
+      "analyst_sentiment": "Bearish"
+    },
+    {
+      "sector": "Financials",
+      "current_growth": 0.0992,
+      "forecast_growth": 0.0529,
+      "volatility": 0.1361,
+      "analyst_sentiment": "Bullish"
+    },
+    {
+      "sector": "Consumer Discretionary",
+      "current_growth": 0.2475,
+      "forecast_growth": 0.1662,
+      "volatility": 0.2734,
+      "analyst_sentiment": "Bearish"
+    },
+    {
+      "sector": "Consumer Staples",
+      "current_growth": 0.0279,
+      "forecast_growth": 0.0261,
+      "volatility": 0.2513,
+      "analyst_sentiment": "Bullish"
+    },
+    {
+      "sector": "Energy",
+      "current_growth": -0.0659,
+      "forecast_growth": -0.0893,
+      "volatility": 0.3881,
+      "analyst_sentiment": "Strongly Bullish"
+    },
+    {
+      "sector": "Materials",
+      "current_growth": 0.1056,
+      "forecast_growth": 0.0526,
+      "volatility": 0.1731,
+      "analyst_sentiment": "Bullish"
+    },
+    {
+      "sector": "Industrials",
+      "current_growth": 0.1888,
+      "forecast_growth": 0.0995,
+      "volatility": 0.2461,
+      "analyst_sentiment": "Neutral"
+    },
+    {
+      "sector": "Utilities",
+      "current_growth": 0.1699,
+      "forecast_growth": 0.1087,
+      "volatility": 0.2501,
+      "analyst_sentiment": "Bearish"
+    },
+    {
+      "sector": "Real Estate",
+      "current_growth": -0.0522,
+      "forecast_growth": -0.0087,
+      "volatility": 0.1184,
+      "analyst_sentiment": "Bearish"
+    },
+    {
+      "sector": "Communication Services",
+      "current_growth": 0.1959,
+      "forecast_growth": 0.0906,
+      "volatility": 0.1459,
+      "analyst_sentiment": "Neutral"
+    }
+  ],
+  "overall_market": {
+    "growth": 0.105,
+    "volatility_index": 29.78,
+    "interest_rate": 2.58,
+    "inflation_rate": 2.25
+  }
+}

@@ -11,7 +11,7 @@ Important Note: This is a demonstration project intended for educational and por
 Installation 
 
 # Clone the repository 
-git clone https://github.com/yourusername/SAP-GenAI-Investment-Advisor.git 
+git clone https://github.com/AxelSuffrin/SAP-GenAI-Investment-Advisor.git 
  
 # Navigate to the project directory 
 cd SAP-GenAI-Investment-Advisor 

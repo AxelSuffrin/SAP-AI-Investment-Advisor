@@ -8,6 +8,54 @@ This project showcases a prototype application that simulates how financial inst
 
 Important Note: This is a demonstration project intended for educational and portfolio purposes only. While SAP provides the underlying AI technologies and infrastructure that could support such applications, SAP does not offer ready-made investment advisory solutions for financial institutions to provide to their end customers. Financial advisory is highly regulated and would require significant customization based on regional regulations and firm-specific investment philosophies.
 
+Installation 
+
+# Clone the repository 
+git clone https://github.com/yourusername/SAP-GenAI-Investment-Advisor.git 
+ 
+# Navigate to the project directory 
+cd SAP-GenAI-Investment-Advisor 
+ 
+# Create required directories if they don't exist 
+mkdir -p data 
+ 
+# Install dependencies 
+pip install -r requirements.txt 
+ 
+
+The requirements.txt file should contain: 
+
+Flask==2.2.3 
+numpy==1.24.2 
+Faker==18.3.1 
+ 
+
+Running the Application 
+
+# Start the Flask development server 
+python app.py 
+ 
+
+After starting the application: 
+
+Open your browser and navigate to http://localhost:5000 
+
+Select a client from the dashboard to view personalized investment recommendations 
+
+Explore how different client profiles generate different asset recommendations 
+
+Notice how the five investment factors (Market Trend, Risk Tolerance, Portfolio Diversification, Age-Based Allocation, and Goal Alignment) influence the recommendations 
+
+The first time you run the application, it will automatically generate mock data including: 
+
+100 simulated client profiles with varying risk tolerances and financial goals 
+
+Portfolio holdings across various asset classes 
+
+Current market trend simulations 
+
+These instructions will make it easy for anyone reviewing your portfolio to quickly set up and explore your demonstration of how SAP's AI capabilities could enhance investment advisory services. 
+
 Key Features
 Personalized Asset Recommendations: AI-generated investment suggestions based on client risk profiles and portfolio analysis
 

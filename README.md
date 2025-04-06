@@ -90,4 +90,5 @@ The UI demonstrates how investment recommendations could be presented with alloc
 
 License
 MIT License
+
 This project is not affiliated with or endorsed by SAP SE. All SAP product names are trademarks or registered trademarks of SAP SE or its affiliates.

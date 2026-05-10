@@ -6,8 +6,6 @@ A demonstration of how financial institutions can leverage SAP's AI technologies
 Overview
 This project showcases a prototype application that simulates how financial institutions could use SAP's AI infrastructure to analyze client portfolios, market trends, and risk profiles to deliver tailored investment advice. It demonstrates the potential of generative AI in financial advisory services through a practical implementation.
 
-Important Note: This is a demonstration project intended for educational and portfolio purposes only. While SAP provides the underlying AI technologies and infrastructure that could support such applications, SAP does not offer ready-made investment advisory solutions for financial institutions to provide to their end customers. Financial advisory is highly regulated and would require significant customization based on regional regulations and firm-specific investment philosophies.
-
 Installation 
 
 # Clone the repository 
@@ -87,6 +85,8 @@ Using This Project
 This prototype demonstrates concepts only and should not be used for actual investment decisions. It shows how modern AI capabilities could be integrated with financial data to create more personalized and transparent investment experiences.
 
 The UI demonstrates how investment recommendations could be presented with allocation adjustments, confidence levels, and natural language explanations that help users understand the reasoning behind each suggestion.
+
+Important Note: This is a demonstration project intended for educational and portfolio purposes only. While SAP provides the underlying AI technologies and infrastructure that could support such applications, SAP does not offer ready-made investment advisory solutions for financial institutions to provide to their end customers. Financial advisory is highly regulated and would require significant customization based on regional regulations and firm-specific investment philosophies.
 
 License
 MIT License

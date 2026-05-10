@@ -1,5 +1,5 @@
 # SAP-AI-Investment-Advisor
-SAP GenAI-powered Investment Advisor (prototype)
+SAP GenAI-powered Investment Advisor
 
 A demonstration of how financial institutions can leverage SAP's AI technologies to generate personalized investment recommendations.
 
